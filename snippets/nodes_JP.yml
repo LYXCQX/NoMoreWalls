@@ -7,6 +7,15 @@ proxies:
   server: 36.151.192.239
   skip-cert-verify: true
   type: trojan
+- client-fingerprint: chrome
+  name: 13,14,15|JP_speednode_0007
+  network: tcp
+  password: 8zlR8O7E3S8uqex4xYnpp8O6C3lZejBCZO53eYD7XIAaaTBRC3Cj9SCFxlAwKAwD2yyN3
+  port: 443
+  server: 54.249.161.173
+  skip-cert-verify: true
+  sni: sniffle.meijireform.com
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇯🇵 日本特殊|@ripaojiedian
