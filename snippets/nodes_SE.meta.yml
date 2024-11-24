@@ -1,14 +1,8 @@
 proxies:
-- name: 15|SE_speednode_0029
-  network: ws
-  port: 8080
-  server: 185.146.173.58
-  servername: lc80.lebasnoo.ir.
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 26757718-95ee-406d-8c9a-bb5c4cfdd9ac
-  ws-opts:
-    headers:
-      Host: lc80.lebasnoo.ir.
-    path: /servernett
+- name: 15|SE_speednode_0030
+  password: wkmY1R4EcP
+  port: 443
+  server: 65.20.115.19
+  skip-cert-verify: true
+  sni: myket.io
+  type: trojan
