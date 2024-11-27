@@ -1,10 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-1
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.192
-  type: ss
 - cipher: rc4-md5
   name: 0|-https://t.me/MrXbin-2
   password: 14fFPrbezE3HDZzsMOr6
@@ -12,53 +6,13 @@ proxies:
   server: 193.108.119.230
   type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-14
+  name: 0|-https://t.me/MrXbin-12
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
   protocol: origin
   server: us-am3.eqnode.net
   type: ssr
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-21
-  network: ws
-  port: 2095
-  server: 172.64.166.22
-  servername: ip20.6016725.xyz
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip20.6016725.xyz
-    path: /github.com/Alvin9999
-- name: 0,15|JP_speednode_0021
-  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
-  port: 443
-  server: 35.75.8.137
-  skip-cert-verify: true
-  sni: steampipe-kr.akamaized.net
-  type: trojan
-  udp: true
-- name: 0,15|US_speednode_0044
-  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
-  port: 443
-  server: 34.215.226.60
-  skip-cert-verify: true
-  sni: edge.steam-dns.top.comcast.net
-  type: trojan
-  udp: true
-- name: 0,15|JP_speednode_0020
-  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
-  port: 443
-  server: 18.179.44.127
-  skip-cert-verify: true
-  sni: fastly.cdn.steampipe.steamcontent.com
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: '3,4,5|d*********g.com_0 #2'
@@ -660,6 +614,22 @@ proxies:
     headers:
       Host: edgood.889876.xyz
     path: /?ed=2048
+- name: 15|JP_speednode_0020
+  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
+  port: 443
+  server: 18.179.44.127
+  skip-cert-verify: true
+  sni: fastly.cdn.steampipe.steamcontent.com
+  type: trojan
+  udp: true
+- name: 15|JP_speednode_0021
+  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
+  port: 443
+  server: 35.75.8.137
+  skip-cert-verify: true
+  sni: steampipe-kr.akamaized.net
+  type: trojan
+  udp: true
 - name: 15|SE_speednode_0022
   network: ws
   port: 80
@@ -953,6 +923,14 @@ proxies:
     headers:
       Host: ELIV2RAY-JOIN.COM
     path: /
+- name: 15|US_speednode_0044
+  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
+  port: 443
+  server: 34.215.226.60
+  skip-cert-verify: true
+  sni: edge.steam-dns.top.comcast.net
+  type: trojan
+  udp: true
 - name: 15|US_speednode_0045
   network: ws
   port: 80
