@@ -46,7 +46,8 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
-  name: 13|🇭🇰 香港6|@ripaojiedian
+  name: 13,14|香港6|@ripaojiedian
+  network: tcp
   password: 32a3dba3-7b31-409e-b0bd-15fafe7009ec
   port: 20049
   server: iepl04.catcat-123.com
@@ -65,23 +66,14 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
-  name: 13|🇭🇰 香港8|@ripaojiedian
+  name: 13,14|香港8|@ripaojiedian
+  network: tcp
   password: 5e2ce79c-170e-484a-8802-40584a1a3a12
   port: 13007
   server: naiu-hk.05vr9nyqg5.download
   skip-cert-verify: false
   sni: cloudflare.node-ssl.cdn-alibaba.com
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 14|香港4|@ripaojiedian
-  network: tcp
-  port: '18001'
-  server: cc3.douyin.com.gbnodex.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 7362aef8-0201-44a6-8cf2-5e50a3b6873b
 - alterId: 64
   cipher: auto
   name: 14|香港5|@ripaojiedian
@@ -92,10 +84,13 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 14|香港6|@ripaojiedian
+- alterId: 64
+  cipher: auto
+  name: 14|香港7|@ripaojiedian
   network: tcp
-  password: 32a3dba3-7b31-409e-b0bd-15fafe7009ec
-  port: 20015
-  server: iepl02.catcat-123.com
-  sni: cmhk-01.oneok.link
-  type: trojan
+  port: '46602'
+  server: 183.236.51.23
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24

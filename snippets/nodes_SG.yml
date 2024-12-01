@@ -1,6 +1,7 @@
 proxies:
 - client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|@ripaojiedian
+  name: 13,14|新加坡|@ripaojiedian
+  network: tcp
   password: 5e2ce79c-170e-484a-8802-40584a1a3a12
   port: 13028
   server: naiu-sg.05vr9nyqg5.download
@@ -12,6 +13,6 @@ proxies:
   name: 13|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.88.193.52
+  server: 18.136.207.233
   tfo: false
   type: ss
