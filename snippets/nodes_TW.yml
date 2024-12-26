@@ -10,10 +10,13 @@ proxies:
   tls: false
   type: vmess
   uuid: 17e51677-587d-4312-972a-3f51afd2fe4f
-- name: 14|台湾2|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  name: 14|台湾|@ripaojiedian
   network: tcp
-  password: da1b02af-a91b-425c-8b43-10ecb80adc08
-  port: 18147
-  server: svip.88de.hongxingdl.vip
-  sni: mm2.redapricotcloud.com
-  type: trojan
+  port: '60852'
+  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 17e51677-587d-4312-972a-3f51afd2fe4f
