@@ -1,4 +1,11 @@
 proxies:
+- name: 15|DE_speednode_0028
+  password: '!!str 3723507166611775488'
+  port: 443
+  server: 109.61.16.83
+  skip-cert-verify: false
+  sni: profound-elk.boa152.lol
+  type: trojan
 - http-opts:
     headers:
       Host:
