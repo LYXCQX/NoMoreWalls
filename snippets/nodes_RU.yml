@@ -1,7 +1,7 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|🇷🇺1 |  5.2MB/s
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.231.233.173
+  name: 0|🇷🇺2 |  3.5MB/s
+  password: fG2artUmHfNT2cX7
+  port: 9018
+  server: 217.30.10.18
   type: ss
