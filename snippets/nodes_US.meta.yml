@@ -1,15 +1,59 @@
 proxies:
-- name: 0|🇺🇸1 |  3.8MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usport1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usport1-cdn-route.couldflare-cdn.com
+- client-fingerprint: firefox
+  delay: 1321
+  flow: xtls-rprx-vision
+  name: 0|🇺🇸1 |  20.9MB/s
+  network: tcp
+  port: 65535
+  reality-opts:
+    public-key: xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0
+    short-id: 354ad572
+  server: 130.162.154.216
+  servername: icloud.com
   tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
+  type: vless
+  udp: true
+  uuid: eb9ce22c-57ae-416f-8d42-8d2317b276a4
+- cipher: aes-128-gcm
+  name: 0|🇺🇸2 |  5.8MB/s
+  password: 703a28b4-26a0-412a-a663-bccd1ad402a7
+  port: 12021
+  server: mdss-sg.04z3susick.download
+  type: ss
+- cipher: aes-128-gcm
+  name: 0|🇺🇸3 |  5.3MB/s
+  password: 703a28b4-26a0-412a-a663-bccd1ad402a7
+  port: 12025
+  server: mdss-us.04z3susick.download
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|🇺🇸4 |  2.4MB/s
+  password: amazonskr05
+  port: 443
+  server: 35.87.114.59
+  type: ss
+- name: 0|🇺🇸5 |  4.1MB/s
+  password: d1cb7034-ff39-37f3-b65e-db8d8bd9a870
+  port: 20303
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: z303.hongkongnode.top
+  type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  name: 0|🇺🇸6 |  2.8MB/s
+  password: 703a28b4-26a0-412a-a663-bccd1ad402a7
+  port: 12017
+  server: mdss-sg.04z3susick.download
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|🇺🇸7 |  4.3MB/s
+  password: amazonskr05
+  port: 443
+  server: 44.243.200.8
+  type: ss
 - client-fingerprint: chrome
-  name: 0|🇺🇸2 |  5.2MB/s
+  name: 0|🇺🇸8 |  2.8MB/s
   network: ws
   port: 443
   server: lucky.cepu.us.kg
@@ -22,42 +66,6 @@ proxies:
     headers:
       Host: lucky.cepu.us.kg
     path: /198.13.42.58-32954
-- name: 0|🇺🇸3 |  1.7MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usgp3-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usgp3-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸4 |  4.8MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: jp104-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸5 |  2.8MB/s
-  password: 2aa6d924-bc53-31e3-a445-04853540dc9b
-  port: 20279
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z279.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸6 |  1.4MB/s
-  password: 2aa6d924-bc53-31e3-a445-04853540dc9b
-  port: 20303
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z303.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
