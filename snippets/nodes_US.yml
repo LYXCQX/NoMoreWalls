@@ -1,19 +1,64 @@
 proxies:
-- cipher: chacha20-ietf
+- alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - moi.ir
+    method: GET
+    path:
+    - /
+  name: 0|🇺🇸1 |  5.4MB/s
+  network: http
+  port: 8881
+  server: 66.42.90.216
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: db5afae4-ac23-41a6-8378-f307a9a47436
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇺🇸2 |  2.4MB/s
+  password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00
+  port: 40001
+  server: us.fastsoonlink.com
+  type: ss
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 0|🇺🇸2 |  5.8MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8512
-  protocol: origin
-  protocol-param: ''
-  server: cn16.closeai.one
-  type: ssr
+  name: 0|🇺🇸3 |  2.2MB/s
+  password: amazonskr05
+  port: 443
+  server: 3.38.190.194
+  type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 0|🇺🇸4 |  2.7MB/s
+  network: ws
+  port: 2082
+  server: s1.db-link01.top
+  tls: false
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  ws-opts:
+    headers:
+      Host: 100-39-195-198.s1.db-link01.top
+    path: /dabai.in104.16.26.37
+- alterId: 0
+  cipher: auto
+  disable-sni: true
+  name: 0,14|香港3|@ripaojiedian
+  network: tcp
+  port: '31488'
+  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
 - cipher: chacha20-ietf
   client-fingerprint: chrome
-  name: 0|🇺🇸3 |  6.2MB/s
+  name: 0|🇺🇸6 |  4.2MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
@@ -23,27 +68,8 @@ proxies:
   server: cn02.closeai.one
   type: ssr
   udp: true
-- cipher: chacha20-ietf
-  client-fingerprint: chrome
-  name: 0|🇺🇸4 |  1.8MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8513
-  protocol: origin
-  protocol-param: ''
-  server: cn16.closeai.one
-  type: ssr
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|🇺🇸5 |  2.8MB/s
-  password: amazonskr05
-  port: 443
-  server: 34.221.171.18
-  type: ss
-  udp: true
 - client-fingerprint: chrome
-  name: 13,14|美国|@ripaojiedian
+  name: 0,13,14|美国|@ripaojiedian
   network: tcp
   password: dc15d997-8b26-4294-870e-c90a5784dca4
   port: 13019

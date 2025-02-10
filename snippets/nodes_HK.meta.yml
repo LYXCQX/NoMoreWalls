@@ -1,11 +1,4 @@
 proxies:
-- name: 0|🇭🇰1 |  1.9MB/s
-  password: myszy28811
-  port: 28811
-  server: pipi.myddns.me
-  type: socks5
-  udp: true
-  username: myszy
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -68,16 +61,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 1a3f584c-0960-48ef-a161-942c91e8ab64
-- alterId: 0
-  cipher: auto
-  name: 14|香港3|@ripaojiedian
-  network: tcp
-  port: '31488'
-  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
 - name: 15|HK_speednode_0010
   port: 4000
   server: ftq.ink

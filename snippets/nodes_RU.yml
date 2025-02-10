@@ -1,1 +1,7 @@
-proxies: []
+proxies:
+- cipher: aes-256-cfb
+  name: 0|🇷🇺1 |  5.2MB/s
+  password: cp8pRSUAyLhTfVWH
+  port: 9064
+  server: 217.30.10.18
+  type: ss
