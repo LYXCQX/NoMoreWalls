@@ -33,7 +33,7 @@ proxies:
   type: vmess
   uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
 - client-fingerprint: chrome
-  name: 13,14|香港4|@ripaojiedian
+  name: 13,14,15|HK_speednode_0096
   network: tcp
   password: 43e5eeacbad3032bfe4c25a2f011b6b7
   port: 443
@@ -41,6 +41,7 @@ proxies:
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   name: 14|香港|@ripaojiedian
@@ -61,7 +62,17 @@ proxies:
   tls: false
   type: vmess
   uuid: 1a3f584c-0960-48ef-a161-942c91e8ab64
-- name: 15|HK_speednode_0010
+- alterId: 0
+  cipher: auto
+  name: 14|香港3|@ripaojiedian
+  network: tcp
+  port: '31488'
+  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
+- name: 15|HK_speednode_0095
   port: 4000
   server: ftq.ink
   tls: true

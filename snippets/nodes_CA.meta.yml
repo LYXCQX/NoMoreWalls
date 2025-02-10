@@ -1,13 +1,12 @@
 proxies:
 - cipher: chacha20-ietf
-  client-fingerprint: chrome
-  name: 0|🇨🇦1 |  6.0MB/s
+  name: 0|🇨🇦1 |  4.6MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8106
+  port: 8126
   protocol: origin
   protocol-param: ''
-  server: cn02.closeai.one
+  server: cn05.closeai.one
   type: ssr
   udp: true

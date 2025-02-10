@@ -1,49 +1,6 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: 0|🌀1- |  2.6MB/s
-  network: ws
-  port: 23612
-  server: 12.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 41349bed-2512-3dda-98f7-b853b9341f92
-  ws-opts:
-    headers:
-      Host: 12.mamamajd.site
-    path: /
 - cipher: chacha20-ietf
-  name: 0|🇮🇷1 |  6.2MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8210
-  protocol: origin
-  protocol-param: ''
-  server: cn08.closeai.one
-  type: ssr
-  udp: true
-- alterId: 0
-  cipher: auto
-  http-opts:
-    headers:
-      Host:
-      - moi.ir
-    method: GET
-    path:
-    - /
-  name: 0|🇺🇸1 |  5.4MB/s
-  network: http
-  port: 8881
-  server: 66.42.90.216
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: db5afae4-ac23-41a6-8378-f307a9a47436
-- cipher: chacha20-ietf
-  name: 0|🇮🇷2 |  3.5MB/s
+  name: 0|🇮🇷1 |  6.0MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
@@ -53,134 +10,115 @@ proxies:
   server: cn06.closeai.one
   type: ssr
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸2 |  2.4MB/s
-  password: 65abdb1c-1cdf-4630-a32b-8ae566b48c00
-  port: 40001
-  server: us.fastsoonlink.com
-  type: ss
 - cipher: chacha20-ietf
-  name: 0|🇮🇷3 |  1.3MB/s
+  name: 0|🌀1- |  5.9MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8211
-  protocol: origin
-  protocol-param: ''
-  server: cn08.closeai.one
-  type: ssr
-  udp: true
-- cipher: chacha20-ietf
-  name: 0|🇺🇦1 |  2.0MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8602
-  protocol: origin
-  protocol-param: ''
-  server: cn17.closeai.one
-  type: ssr
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|🇺🇸3 |  2.2MB/s
-  password: amazonskr05
-  port: 443
-  server: 3.38.190.194
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 0|🇺🇸4 |  2.7MB/s
-  network: ws
-  port: 2082
-  server: s1.db-link01.top
-  tls: false
-  type: vmess
-  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
-  ws-opts:
-    headers:
-      Host: 100-39-195-198.s1.db-link01.top
-    path: /dabai.in104.16.26.37
-- cipher: chacha20-ietf
-  name: 0|🇮🇷4 |  3.9MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8412
-  protocol: origin
-  protocol-param: ''
-  server: cn14.closeai.one
-  type: ssr
-  udp: true
-- alterId: 0
-  cipher: auto
-  disable-sni: true
-  name: 0,14|香港3|@ripaojiedian
-  network: tcp
-  port: '31488'
-  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
-- cipher: chacha20-ietf
-  name: 0|🌀2- |  3.3MB/s
-  obfs: http_simple
-  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
-  password: passwd
-  port: 8118
+  port: 8117
   protocol: origin
   protocol-param: ''
   server: cn04.closeai.one
   type: ssr
   udp: true
 - cipher: chacha20-ietf
-  name: 0|🇹🇼1 |  3.9MB/s
+  name: 0|🇺🇸2 |  5.1MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8303
+  port: 8505
+  protocol: origin
+  protocol-param: ''
+  server: cn15.closeai.one
+  type: ssr
+  udp: true
+- cipher: chacha20-ietf
+  name: 0|🇨🇦1 |  4.6MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8126
+  protocol: origin
+  protocol-param: ''
+  server: cn05.closeai.one
+  type: ssr
+  udp: true
+- cipher: chacha20-ietf
+  name: 0|🇹🇼1 |  5.6MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8301
   protocol: origin
   protocol-param: ''
   server: cn10.closeai.one
   type: ssr
   udp: true
 - cipher: chacha20-ietf
-  name: 0|🇮🇷5 |  3.5MB/s
+  name: 0|🇷🇺1 |  17.0MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8520
+  port: 8613
   protocol: origin
   protocol-param: ''
-  server: cn18.closeai.one
+  server: cn17.closeai.one
   type: ssr
   udp: true
 - cipher: chacha20-ietf
-  name: 0|🌀3- |  2.1MB/s
+  name: 0|🌀2- |  6.2MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8112
+  port: 8231
   protocol: origin
   protocol-param: ''
-  server: cn03.closeai.one
+  server: cn06.closeai.one
   type: ssr
   udp: true
+- cipher: aes-128-gcm
+  name: 0|🌏1 |  3.5MB/s
+  password: 6419ff34-6c3e-4cbf-b58b-b6bb34e1ccff
+  port: 12009
+  server: mdss-hk.04z3susick.download
+  type: ss
+  udp: true
 - cipher: chacha20-ietf
-  name: 0|🇮🇷6 |  5.8MB/s
+  name: 0|🇬🇧1 |  5.1MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8521
+  port: 8601
   protocol: origin
   protocol-param: ''
-  server: cn18.closeai.one
+  server: cn17.closeai.one
   type: ssr
   udp: true
 - cipher: chacha20-ietf
-  name: 0|🇺🇸6 |  4.2MB/s
+  name: 0|🇷🇺2 |  5.5MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8202
+  protocol: origin
+  protocol-param: ''
+  server: cn06.closeai.one
+  type: ssr
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|🇺🇦1 |  24.8MB/s
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 176.103.53.105
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|🇰🇷1 |  2.3MB/s
+  password: amazonskr05
+  port: 443
+  server: 54.180.158.248
+  type: ss
+- cipher: chacha20-ietf
+  name: 0|🇺🇸3 |  5.4MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
@@ -191,30 +129,60 @@ proxies:
   type: ssr
   udp: true
 - cipher: chacha20-ietf
-  name: 0|🇨🇦1 |  6.0MB/s
+  name: 0|🇺🇸4 |  3.3MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8106
+  port: 8508
+  protocol: origin
+  protocol-param: ''
+  server: cn16.closeai.one
+  type: ssr
+  udp: true
+- cipher: chacha20-ietf
+  name: 0|🌀4- |  3.5MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8407
+  protocol: origin
+  protocol-param: ''
+  server: cn12.closeai.one
+  type: ssr
+  udp: true
+- cipher: chacha20-ietf
+  name: 0|🇺🇸5 |  3.5MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8109
   protocol: origin
   protocol-param: ''
   server: cn02.closeai.one
   type: ssr
   udp: true
-- name: 0,13,14|美国|@ripaojiedian
-  network: tcp
-  password: dc15d997-8b26-4294-870e-c90a5784dca4
-  port: 13019
-  server: naiu-us.05vr9nyqg5.download
-  skip-cert-verify: false
-  sni: cloudflare.node-ssl.cdn-alibaba.com
-  type: trojan
-- cipher: aes-256-cfb
-  name: 0|🇷🇺1 |  5.2MB/s
-  password: cp8pRSUAyLhTfVWH
-  port: 9064
-  server: 217.30.10.18
-  type: ss
+- cipher: chacha20-ietf
+  name: 0|🇮🇷2 |  6.1MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8208
+  protocol: origin
+  protocol-param: ''
+  server: cn07.closeai.one
+  type: ssr
+  udp: true
+- cipher: chacha20-ietf
+  name: 0|🇺🇸6 |  6.2MB/s
+  obfs: http_simple
+  obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
+  password: passwd
+  port: 8123
+  protocol: origin
+  protocol-param: ''
+  server: cn05.closeai.one
+  type: ssr
+  udp: true
 - alterId: 0
   cipher: auto
   name: 13|🇭🇰 香港|@ripaojiedian
@@ -245,7 +213,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
-- name: 13,14|香港4|@ripaojiedian
+- name: 13,14,15|HK_speednode_0096
   network: tcp
   password: 43e5eeacbad3032bfe4c25a2f011b6b7
   port: 443
@@ -253,6 +221,7 @@ proxies:
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
+  udp: true
 - name: 13,14|台湾|@ripaojiedian
   network: tcp
   password: 415b770f-20de-4be4-a3c1-8376da50a1b7
@@ -304,7 +273,7 @@ proxies:
   skip-cert-verify: false
   sni: cloudflare.node-ssl.cdn-alibaba.com
   type: trojan
-- name: 13,14|韩国|@ripaojiedian
+- name: 13,14,15|CN_speednode_0058
   network: tcp
   password: dc15d997-8b26-4294-870e-c90a5784dca4
   port: 13036
@@ -312,6 +281,7 @@ proxies:
   skip-cert-verify: false
   sni: cloudflare.node-ssl.cdn-alibaba.com
   type: trojan
+  udp: true
 - name: 13,14|韩国2|@ripaojiedian
   network: tcp
   password: 415b770f-20de-4be4-a3c1-8376da50a1b7
@@ -342,6 +312,14 @@ proxies:
   server: wb.kaiqsz.com
   skip-cert-verify: false
   sni: mmbiz1.redapricotcloud.com
+  type: trojan
+- name: 13,14|美国|@ripaojiedian
+  network: tcp
+  password: dc15d997-8b26-4294-870e-c90a5784dca4
+  port: 13019
+  server: naiu-us.05vr9nyqg5.download
+  skip-cert-verify: false
+  sni: cloudflare.node-ssl.cdn-alibaba.com
   type: trojan
 - alterId: 0
   cipher: auto
@@ -411,6 +389,16 @@ proxies:
   uuid: 1a3f584c-0960-48ef-a161-942c91e8ab64
 - alterId: 0
   cipher: auto
+  name: 14|香港3|@ripaojiedian
+  network: tcp
+  port: '31488'
+  server: fiwejniavzoj.xn--fiqs8sjz2bull.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 234dcf63-5809-44fd-9c53-86f51f2e76a7
+- alterId: 0
+  cipher: auto
   name: 14|台湾2|@ripaojiedian
   network: tcp
   port: '19490'
@@ -445,22 +433,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 6f5637c1-2a46-4d3b-8257-7dc3a70ff1dd
-- name: 15|GB_speednode_0009
-  password: 4db82bff-0889-4320-8944-7b8d8ee66ff5
-  port: 2333
-  server: 89.213.40.225
-  skip-cert-verify: true
-  sni: www
-  type: trojan
-  udp: true
-- name: 15|US_speednode_0049
-  password: Bw5Mz7QkVp
-  port: 443
-  server: 149.28.110.226
-  skip-cert-verify: true
-  sni: z-v2-077057.kailib.com
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: 16|d*********g.com_2
