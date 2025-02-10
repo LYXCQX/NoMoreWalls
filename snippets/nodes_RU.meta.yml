@@ -1,13 +1,27 @@
 proxies:
-- auth: 7ee32f14-b07b-4a5c-8417-af90530f06e4
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
   client-fingerprint: chrome
-  name: 0|🇷🇺1 |  4.8MB/s
-  password: 7ee32f14-b07b-4a5c-8417-af90530f06e4
-  port: 32548
-  server: 94.159.107.80
+  down: 55 Mbps
+  name: 0|🇷🇺1 |  5.4MB/s
+  obfs: dongtaiwang.com
+  port: 15424
+  ports: 30000-40000
+  server: 185.22.155.71
   skip-cert-verify: true
-  sni: bing.com
-  type: hysteria2
+  sni: www.bing.com
+  type: hysteria
+  up: 11 Mbps
+- cipher: aes-256-cfb
+  ip-version: dual
+  name: 0|🇷🇺2 |  24.8MB/s
+  password: TPqX8edgbAURcAMb
+  port: 9079
+  server: 217.30.10.18
+  type: ss
+  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇷🇺 俄罗斯|@ripaojiedian
