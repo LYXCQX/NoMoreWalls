@@ -1,22 +1,10 @@
 proxies:
-- auth: 82c01da0-59b7-48f2-8a24-58e7e5e1d8e3
-  client-fingerprint: chrome
-  name: 0|🇬🇧1 |  4.6MB/s
-  password: 82c01da0-59b7-48f2-8a24-58e7e5e1d8e3
-  port: 22243
-  server: fr3.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: fr3.xiaoliyu.cyou
-  type: hysteria2
-- auth: a4c1b618-024a-42d4-b78a-1c25c337a484
-  client-fingerprint: chrome
-  name: 0|🇬🇧2 |  3.0MB/s
-  password: a4c1b618-024a-42d4-b78a-1c25c337a484
-  port: 24568
-  server: fr3.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: fr3.xiaoliyu.cyou
-  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇬🇧1 |  1.6MB/s
+  password: e8d1de1b-476e-4441-b287-dd7340644809
+  port: 36143
+  server: free.2weradf.xyz
+  type: ss
 - name: 15|GB_speednode_0041
   password: '!!str 65086441068973800'
   port: 443
