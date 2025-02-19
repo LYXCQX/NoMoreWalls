@@ -1,20 +1,4 @@
 proxies:
-- name: 0|🇸🇬1 |  6.3MB/s
-  password: 99398f6b-f356-344d-8b44-d3bd4108aad7
-  port: 30712
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x83.flybar.work
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇸🇬2 |  4.3MB/s
-  password: amazonskr05
-  port: 443
-  server: 18.141.9.206
-  type: ss
-  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇸🇬 新加坡|@ripaojiedian
@@ -55,16 +39,3 @@ proxies:
   server: 52.79.101.162
   tfo: false
   type: ss
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 15|SG_speednode_0053
-  port: 10297
-  reality-opts:
-    public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
-  server: 185.248.187.69
-  servername: www.sega.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9db6acf4-d3d3-4176-f704-0da5f6da6165
