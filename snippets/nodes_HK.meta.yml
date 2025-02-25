@@ -1,5 +1,5 @@
 proxies:
-- name: 0|🇭🇰1 |  2.1MB/s
+- name: 0|🇭🇰1 |  2.9MB/s
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
   server: hkre1-cdn-route.couldflare-cdn.com
@@ -8,20 +8,6 @@ proxies:
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇭🇰2 |  28.8MB/s
-  network: ws
-  port: 443
-  server: 8.216.128.174
-  servername: clawsg.costs.asia
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ca96f93e-ca9a-4130-f0c0-5e3826ea8412
-  ws-opts:
-    headers:
-      Host: clawsg.costs.asia
-    path: /bing
 - client-fingerprint: chrome
   name: 13,14|香港|@ripaojiedian
   network: tcp
@@ -31,14 +17,6 @@ proxies:
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇭🇰 香港2|@ripaojiedian
-  password: 2be0c954-4291-45ea-b47d-ca713180550b
-  port: 52611
-  server: hk01.x.quickcht3.club
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 13|🇭🇰 香港3|@ripaojiedian
   password: Vad3.123a)asd1234-asdasd.asdazzS.123
