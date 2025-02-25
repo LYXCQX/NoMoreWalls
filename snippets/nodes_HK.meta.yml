@@ -1,4 +1,27 @@
 proxies:
+- name: 0|🇭🇰1 |  2.1MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: hkre1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: hkre1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- name: 0|🇭🇰2 |  28.8MB/s
+  network: ws
+  port: 443
+  server: 8.216.128.174
+  servername: clawsg.costs.asia
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca96f93e-ca9a-4130-f0c0-5e3826ea8412
+  ws-opts:
+    headers:
+      Host: clawsg.costs.asia
+    path: /bing
 - client-fingerprint: chrome
   name: 13,14|香港|@ripaojiedian
   network: tcp
