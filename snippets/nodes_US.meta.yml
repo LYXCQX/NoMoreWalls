@@ -1,56 +1,29 @@
 proxies:
-- name: 0|🇺🇸1 |  2.9MB/s
-  password: ec619d15-c0a3-3e81-9494-a80671371471
-  port: 20294
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z294.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇺🇸2 |  4.9MB/s
-  password: ec619d15-c0a3-3e81-9494-a80671371471
-  port: 22741
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: dufu.hongkongnode.top
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 0|🇺🇸3 |  5.6MB/s
-  network: ws
-  port: 443
-  server: 8.219.202.145
-  servername: dob.fenmila.me
-  tls: true
-  type: vless
-  uuid: 038562dc-6958-4ce7-eae2-887d8a1bee2a
-  ws-opts:
-    headers:
-      Host: dob.fenmila.me
-    path: /bing
-- name: 0|🇺🇸4 |  5.9MB/s
-  password: ec619d15-c0a3-3e81-9494-a80671371471
-  port: 43337
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z102.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇺🇸5 |  5.8MB/s
-  password: ec619d15-c0a3-3e81-9494-a80671371471
-  port: 28678
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z143.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇺🇸6 |  2.5MB/s
+- name: 0|🇺🇸1 |  3.7MB/s
   password: iMqY3uG_5pgEj3hCfyHB-0vB
   port: 443
   server: 143.198.235.49
   skip-cert-verify: true
   tfo: false
   type: hysteria2
+- name: 0|🇺🇸2 |  5.3MB/s
+  network: ws
+  port: 80
+  server: join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com
+  servername: Join--E-L-i-V-2-R-A-Y.net
+  skip-cert-verify: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- cipher: rc4-md5
+  name: 0|🇺🇸3 |  1.0MB/s
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 107.155.57.11
+  type: ss
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
