@@ -1,4 +1,12 @@
 proxies:
+- name: 0|🇬🇧1 |  5.3MB/s
+  password: f5d37f21-6f31-3cf5-884a-bf13383ddfa5
+  port: 20309
+  server: gyl.58n.net
+  skip-cert-verify: true
+  sni: z309.hongkongnode.top
+  type: trojan
+  udp: true
 - name: 15|GB_speednode_0009
   network: ws
   port: 443
