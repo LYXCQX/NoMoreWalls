@@ -1,9 +1,17 @@
 proxies:
 - cipher: aes-256-cfb
   client-fingerprint: chrome
+  name: 0|🇰🇷1 |  5.3MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.209.80.72
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
   name: 13|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.229.110.23
+  server: 18.179.9.121
   tfo: false
   type: ss
