@@ -1,20 +1,15 @@
 proxies:
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 13,14|俄罗斯|@ripaojiedian
+  name: 0|🇷🇺1 |  5.7MB/s
   network: ws
-  port: '23007'
+  port: 23008
   server: 185.22.152.236
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
-  uuid: b806a6d9-b854-403a-94e7-5fc936a6da2a
+  uuid: 7c24e615-b3cf-4b8b-9102-b86999dcf130
   ws-opts:
-    headers:
-      Host: ''
+    headers: {}
     path: /
 - name: 15|RU_speednode_0046
   network: ws
