@@ -1,12 +1,14 @@
 proxies:
-- name: 0|🇹🇼1 |  6.1MB/s
-  password: b48cb0d2-4dbf-3256-a12e-0e22ce8b076f
-  port: 21247
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x91.flybar.work
-  type: trojan
-  udp: true
+- client-fingerprint: chrome
+  name: 0|🇹🇼1 |  5.2MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 1443
+  server: twmoon1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: twmoon1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇹🇼 台湾|@ripaojiedian
