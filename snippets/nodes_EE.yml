@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 0|🌀7-EE |  1.3MB/s
+  password: LqlPI19oqnunGNSLMvdXyB
+  port: 16356
+  server: 147.45.60.33
+  type: ss
