@@ -1,25 +1,26 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0|🇷🇺1 |  4.5MB/s
+  client-fingerprint: chrome
+  name: 0|🇷🇺1 |  2.9MB/s
   network: ws
-  port: 23016
-  server: 185.22.152.236
+  port: 22009
+  server: 46.17.43.122
   tls: false
   type: vmess
-  uuid: 71a5adc3-ba63-4bca-bb89-b687eb789ea0
+  uuid: 8af9de8a-120f-464f-bff3-70fd786d99b2
   ws-opts:
     headers: {}
     path: /
 - alterId: 0
   cipher: auto
-  name: 0|🇷🇺2 |  1.6MB/s
+  name: 0|🇷🇺4 |  2.7MB/s
   network: ws
-  port: 21012
-  server: 176.32.35.148
+  port: 23016
+  server: 185.22.152.236
   tls: false
   type: vmess
-  uuid: 41657114-7fdd-4dfb-b905-f92227e757f5
+  uuid: 85e67dfb-258d-4a99-9a2e-a37b47fa10d2
   ws-opts:
     headers: {}
     path: /
