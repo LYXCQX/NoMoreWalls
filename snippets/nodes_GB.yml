@@ -1,11 +1,114 @@
 proxies:
-- client-fingerprint: chrome
-  name: 0|🇬🇧1 |  3.1MB/s
-  password: Fl4B9jyFAwE4XgFxuICw8pD0NCYIneA22OyYO30enl8Kxe3a3xcpDEyqa79CTNSpRA5D8
-  port: 443
-  server: young.golfland.club
-  sni: young.golfland.club
-  type: trojan
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 874
+  name: 0|🇬🇧1 |  2.8MB/s
+  password: 1MD7Y1HE8FFHAB0N
+  port: 19008
+  server: 206.245.211.18
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 726
+  name: 0|🇬🇧2 |  1.3MB/s
+  password: 0NRWKI3MXKV7ESKH
+  port: 19011
+  server: 206.245.211.21
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 872
+  name: 0|🇬🇧3 |  1.1MB/s
+  password: M7PVVHSKARO74MWK
+  port: 19013
+  server: 206.245.211.23
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 868
+  name: 0|🇬🇧4 |  2.1MB/s
+  password: RHPSJSEFLHGOWCB6
+  port: 19004
+  server: 206.245.211.14
+  type: ss
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧5 |  1.5MB/s
+  network: ws
+  port: 23613
+  server: 13.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c10a0e2f-3b88-3f96-bbc5-8941b97b4995
+  ws-opts:
+    headers:
+      Host: 13.mamamajd.site
+    path: /
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 906
+  name: 0|🇬🇧6 |  1.5MB/s
+  password: RB8YORZQNUE31ICC
+  port: 19009
+  server: 206.245.211.19
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 731
+  name: 0|🇬🇧7 |  2.7MB/s
+  password: FS37F61GBAIXJF6E
+  port: 19003
+  server: 206.245.211.13
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 760
+  name: 0|🇬🇧8 |  2.7MB/s
+  password: WKQOJA6MCJLFJPPC
+  port: 19002
+  server: 206.245.211.12
+  type: ss
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧9 |  1.4MB/s
+  network: ws
+  port: 23605
+  server: 5.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c10a0e2f-3b88-3f96-bbc5-8941b97b4995
+  ws-opts:
+    headers:
+      Host: 5.mamamajd.site
+    path: /
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 661
+  name: 0|🇬🇧10 |  2.7MB/s
+  password: HRRWFFSBJM9JY8Q8
+  port: 19006
+  server: 206.245.211.16
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 879
+  name: 0|🇬🇧11 |  2.7MB/s
+  password: 7PKV15Z9PTBNEJCI
+  port: 19014
+  server: 206.245.211.24
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇺🇸US
+  delay: 639
+  name: 0|🇬🇧12 |  1.2MB/s
+  password: XZRMJF7HXM2M2STH
+  port: 19016
+  server: 206.245.211.26
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 13|🇬🇧 英国|@ripaojiedian
