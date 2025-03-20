@@ -1,4 +1,16 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼1 |  5.0MB/s
+  password: b8963595-5eeb-411b-9509-e5076b236527
+  port: 36243
+  server: free.2weradf.xyz
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼2 |  5.4MB/s
+  password: b8963595-5eeb-411b-9509-e5076b236527
+  port: 36245
+  server: free.2weradf.xyz
+  type: ss
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
