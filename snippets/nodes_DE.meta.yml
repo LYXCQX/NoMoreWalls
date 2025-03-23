@@ -1,80 +1,57 @@
 proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
+- client-fingerprint: ''
+  flow: ''
   mode: ''
-  name: 0|🇩🇪1 |  4.6MB/s
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks
-    short-id: 190d32b118caf07f
-  server: tst.CyberTeamAPI.com
-  servername: mdundo.com
-  tls: true
+  name: 0|🇩🇪1 |  4.5MB/s
+  network: ws
+  port: 2082
+  server: 104.17.147.22
+  servername: ''
+  tls: false
   type: vless
   udp: false
-  uuid: 9e284c20-d147-48f4-a4cd-dd72903d7407
-- name: 0,15|SC_speednode_0049
-  network: ws
-  port: 8880
-  server: 154.83.2.156
-  servername: redw.pooriam.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  uuid: 38467d75-fe67-4950-c84d-ce5eb3fbe2ae
   ws-opts:
     headers:
-      Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- alterId: 2
-  cipher: auto
-  name: 0|🇩🇪3 |  4.9MB/s
-  network: ws
-  port: 23618
-  server: 18.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 98c818f6-e573-3f3e-8b6a-d9e31a35c0c0
-  ws-opts:
-    headers:
-      Host: 18.mamamajd.site
-    path: /
-- auth: f8a25a9c-8b1f-422e-abb7-19576de21a62
-  client-fingerprint: chrome
-  down: 100
-  name: 0|🇩🇪4 |  5.4MB/s
-  obfs: salamander
-  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
-  password: f8a25a9c-8b1f-422e-abb7-19576de21a62
-  port: 32008
-  server: 5.39.252.72
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 100
-- client-fingerprint: chrome
-  name: 0|🇩🇪5 |  1.0MB/s
-  network: ws
-  port: 2052
-  server: 156.238.18.165
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+      Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+    path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
 - client-fingerprint: chrome
   flow: ''
   grpc-opts:
     grpc-service-name: Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs
   mode: ''
-  name: 0|🇩🇪6 |  5.4MB/s
+  name: 0|🇩🇪2 |  5.7MB/s
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: 0JBrLAhqlbIWkAH1VAFno9w-XpAhjGhhWPG4qw7vlQw
+    short-id: d656c301bc0904
+  server: 91.107.166.17
+  servername: www.cdn77.com
+  tls: true
+  type: vless
+  udp: false
+  uuid: 42166000-e840-4afb-8dc6-220744e980a7
+- alterId: 0
+  cipher: auto
+  name: 0|🇩🇪4 |  4.2MB/s
+  network: ws
+  port: 443
+  server: 172.67.71.217
+  servername: 1t3chx0.zed23.web1337.net
+  tls: true
+  type: vmess
+  uuid: 9072d339-3885-4fe1-b0bc-29fa7505410e
+  ws-opts:
+    headers:
+      Host: 1t3chx0.zed23.web1337.net
+    path: /fixedfloati.cfd/linkwsd
+- client-fingerprint: chrome
+  flow: ''
+  grpc-opts:
+    grpc-service-name: Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs
+  mode: ''
+  name: 0|🇩🇪5 |  5.9MB/s
   network: grpc
   port: 443
   reality-opts:
@@ -86,3 +63,33 @@ proxies:
   type: vless
   udp: false
   uuid: 42166000-e840-4afb-8dc6-220744e980a7
+- auth: f8a25a9c-8b1f-422e-abb7-19576de21a62
+  client-fingerprint: chrome
+  down: 100
+  name: 0|🇩🇪6 |  5.7MB/s
+  obfs: salamander
+  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
+  password: f8a25a9c-8b1f-422e-abb7-19576de21a62
+  port: 32008
+  server: 5.39.252.72
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
+- client-fingerprint: chrome
+  flow: ''
+  grpc-opts:
+    grpc-service-name: fdvsdv
+  mode: ''
+  name: 0|🇩🇪7 |  5.3MB/s
+  network: grpc
+  port: 2097
+  reality-opts:
+    public-key: JNcCRy0bfOEzzyqh1foTuuG9T8IvwiO8ApJu5FhVERs
+    short-id: 2665af94c7b25f90
+  server: 188.245.242.20
+  servername: sourceforge.net
+  tls: true
+  type: vless
+  udp: false
+  uuid: de3e121a-8405-4888-98ec-8914c1850a2d

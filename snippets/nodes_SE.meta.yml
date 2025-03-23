@@ -1,15 +1,30 @@
 proxies:
-- name: 0,15|SC_speednode_0050
+- client-fingerprint: chrome
+  name: 0|🌀7-SE |  6.3MB/s
   network: ws
   port: 8880
-  server: 154.83.2.230
-  servername: redw.pooriam.ir
+  server: 154.83.2.228
   skip-cert-verify: false
   tls: false
   type: vless
-  udp: true
   uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
   ws-opts:
     headers:
       Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+    path: /
+- client-fingerprint: random
+  flow: ''
+  mode: ''
+  name: 0|🌀10-SE |  2.6MB/s
+  network: ws
+  port: 2053
+  server: 172.67.202.155
+  servername: support.onetwothree123.ir
+  tls: true
+  type: vless
+  udp: false
+  uuid: 1170aa26-94b0-4ea5-c7c2-bc51f2c30a3a
+  ws-opts:
+    headers:
+      Host: support.onetwothree123.ir
+    path: /🆔@M3HDIO1
