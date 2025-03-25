@@ -1,11 +1,11 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|🇯🇵1 |  1.8MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.231.144.255
+  name: 0|🌀1-PT |  5.0MB/s
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 185.231.233.112
   type: ss
-- name: 0|🇺🇸6 |  5.7MB/s
+- name: 0|🇺🇸12 |  3.2MB/s
   password: 3b8298e7-f99e-32f1-a0ab-5d5926cbd79a
   port: 20288
   server: gy.58n.net
@@ -14,80 +14,50 @@ proxies:
   tfo: true
   type: trojan
   udp: true
-- name: 0|🇺🇸8 |  5.9MB/s
-  password: 3b8298e7-f99e-32f1-a0ab-5d5926cbd79a
-  port: 20296
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z296.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
-  name: 0|🇺🇸10 |  4.5MB/s
-  port: 51052
-  server: 120.232.153.123
-  skip-cert-verify: true
-  tfo: false
+  name: 0|🌀9-CN |  1.7MB/s
+  network: ws
+  port: 23030
+  server: 212.192.13.68
   tls: false
   type: vmess
   udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 0|🇭🇰6 |  1.5MB/s
-  network: ws
-  password: a38c9e28-9960-4e31-9f18-ed2495a756aa
-  port: 40021
-  server: vt-bana2-cn-11.ghpgwqswodgzv.com
-  sni: vt-bana2-cn-11.ghpgwqswodgzv.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vt-bana2-cn-11.ghpgwqswodgzv.com
-    path: /dl_media
-- alterId: 0
-  cipher: auto
-  name: 0|🇨🇦1 |  1.4MB/s
-  network: ws
-  port: 20030
-  server: 50.114.177.145
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d7f90cbf-b8b5-44c3-a71e-3b2d916480f7
+  uuid: 71f3646f-5db0-4313-b741-a1271095d7cf
   ws-opts:
     path: /
+- alterId: 0
+  cipher: auto
+  name: 0|🌀13- |  5.2MB/s
+  network: ws
+  port: 22358
+  server: 0000000000000000000000000075.cgroup-node-for-bigairport.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 3519dfc0-fa27-41cc-8c19-981818f9f6d5
+  ws-opts:
+    headers:
+      Host: 0000000000000000000000000075.cgroup-node-for-bigairport.sbs
+    path: /
 - cipher: aes-256-cfb
-  name: 0|🇸🇬2 |  1.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.229.233.60
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|🇺🇸21 |  4.9MB/s
-  password: amazonskr05
-  port: 443
-  server: 54.244.128.249
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|🇰🇷2 |  6.1MB/s
+  name: 0|🇰🇷3 |  1.0MB/s
   password: amazonskr05
   port: 443
   server: 43.203.249.105
   type: ss
+- name: 0|🇭🇰10 |  5.9MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 42303
+  server: csuzhou01.1cooldns.com
+  skip-cert-verify: true
+  sni: hk06.run.place
+  type: trojan
 - cipher: aes-256-cfb
-  country: 🇺🇸US
-  delay: 1000
-  name: 0|🇺🇸31 |  4.2MB/s
+  name: 0|🇯🇵6 |  6.2MB/s
   password: amazonskr05
   port: 443
-  server: 44.242.208.211
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|🌀17-PT |  5.2MB/s
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.231.233.112
+  server: 13.231.144.255
   type: ss
 - cipher: aes-256-cfb
   name: 13|tg频道:@ripaojiedian

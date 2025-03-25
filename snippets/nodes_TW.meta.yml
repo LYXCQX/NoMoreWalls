@@ -1,48 +1,8 @@
 proxies:
-- name: 0|🇹🇼1 |  5.8MB/s
-  network: ws
-  port: 12509
-  server: 220.125.141.121
-  servername: agedgm.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgm.ambercc.filegear-sg.me
-    path: /?ed=2560
-- name: 0|🇹🇼2 |  2.1MB/s
-  network: ws
-  port: 21698
-  server: 156.251.180.181
-  servername: agedgm.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgm.ambercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼3 |  6.3MB/s
-  network: tcp
-  port: 16704
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼4 |  1.3MB/s
+- name: 0|🇹🇼1 |  6.8MB/s
   network: ws
   port: 443
-  server: 176.105.253.98
+  server: 103.103.245.183
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -51,12 +11,12 @@ proxies:
   uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
   ws-opts:
     headers:
-      host: agedgm.ambercc.filegear-sg.me
+      Host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼5 |  2.5MB/s
+- name: 0|🇹🇼2 |  1.2MB/s
   network: ws
   port: 443
-  server: pranab.ns.cloudflare.com
+  server: theo.ns.cloudflare.com
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -65,24 +25,12 @@ proxies:
   uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
   ws-opts:
     headers:
-      host: agedgm.ambercc.filegear-sg.me
+      Host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼6 |  5.5MB/s
-  network: tcp
-  port: 50126
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: 141.11.86.24
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼7 |  2.7MB/s
+- name: 0|🇹🇼3 |  1.3MB/s
   network: ws
-  port: 12136
-  server: 220.92.22.170
+  port: 2083
+  server: 27.50.49.231
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -93,59 +41,7 @@ proxies:
     headers:
       host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼8 |  5.0MB/s
-  network: ws
-  port: 443
-  server: 8.219.114.109
-  servername: agedgm.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgm.ambercc.filegear-sg.me
-    path: /?ed=2560
-- name: 0|🇹🇼9 |  1.6MB/s
-  network: ws
-  port: 587
-  server: 47.238.66.74
-  servername: agedgm.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgm.ambercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼10 |  5.8MB/s
-  network: tcp
-  port: 15700
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼11 |  5.9MB/s
-  network: tcp
-  port: 13263
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼12 |  5.8MB/s
+- name: 0|🇹🇼4 |  6.9MB/s
   network: ws
   port: 443
   server: 43.129.171.137
@@ -159,10 +55,10 @@ proxies:
     headers:
       host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼13 |  1.5MB/s
+- name: 0|🇹🇼5 |  1.2MB/s
   network: ws
-  port: 443
-  server: ignacio.ns.cloudflare.com
+  port: 21698
+  server: 156.251.180.181
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -173,10 +69,10 @@ proxies:
     headers:
       host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼14 |  1.6MB/s
+- name: 0|🇹🇼6 |  4.7MB/s
   network: ws
-  port: 2083
-  server: 192.0.54.221
+  port: 443
+  server: 8.219.87.149
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -185,21 +81,63 @@ proxies:
   uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
   ws-opts:
     headers:
-      host: agedgm.ambercc.filegear-sg.me
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼7 |  3.1MB/s
+  network: ws
+  port: 8443
+  server: 92.243.74.239
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼15 |  5.7MB/s
+  name: 0|🇹🇼8 |  5.1MB/s
   network: tcp
-  port: 37809
+  port: 50126
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
+  server: 141.11.86.24
   servername: www.yahoo.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼16 |  1.2MB/s
+- name: 0|🇹🇼9 |  2.5MB/s
+  network: ws
+  port: 2083
+  server: 27.50.48.189
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼10 |  1.6MB/s
+  network: ws
+  port: 443
+  server: 43.156.253.94
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼11 |  1.9MB/s
   network: ws
   port: 443
   server: kip.ns.cloudflare.com
@@ -213,22 +151,74 @@ proxies:
     headers:
       host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
+- name: 0|🇹🇼12 |  2.3MB/s
+  network: ws
+  port: 30017
+  server: 222.118.119.243
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼13 |  1.4MB/s
+  network: ws
+  port: 8443
+  server: 27.50.48.239
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼17 |  6.2MB/s
+  name: 0|🇹🇼14 |  5.7MB/s
   network: tcp
-  port: 34313
+  port: 15823
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou02.mysynology.net
+  server: gy01.hunheiydd.xyz
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼15 |  6.2MB/s
+  network: tcp
+  port: 47531
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
   servername: gateway.icloud.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼18 |  4.4MB/s
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼16 |  5.8MB/s
+  network: tcp
+  port: 13263
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- name: 0|🇹🇼17 |  1.5MB/s
   network: ws
-  port: 27017
-  server: 221.156.244.42
+  port: 8443
+  server: 103.137.212.47
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -237,12 +227,40 @@ proxies:
   uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
   ws-opts:
     headers:
-      host: agedgm.ambercc.filegear-sg.me
+      Host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼19 |  1.6MB/s
+- name: 0|🇹🇼18 |  3.6MB/s
   network: ws
   port: 443
-  server: thaddeus.ns.cloudflare.com
+  server: 206.237.13.162
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼19 |  5.8MB/s
+  network: ws
+  port: 50000
+  server: 121.134.175.190
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼20 |  4.9MB/s
+  network: ws
+  port: 443
+  server: 8.219.222.174
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -253,10 +271,38 @@ proxies:
     headers:
       host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼20 |  5.6MB/s
+- name: 0|🇹🇼21 |  1.1MB/s
   network: ws
-  port: 16000
-  server: 125.136.162.84
+  port: 2083
+  server: 154.218.15.250
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼22 |  5.6MB/s
+  network: ws
+  port: 443
+  server: 92.243.74.115
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼23 |  3.4MB/s
+  network: ws
+  port: 37322
+  server: 118.42.188.118
   servername: agedgm.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -266,6 +312,134 @@ proxies:
   ws-opts:
     headers:
       host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼24 |  1.4MB/s
+  network: ws
+  port: 443
+  server: 154.26.179.89
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼25 |  4.4MB/s
+  network: ws
+  port: 443
+  server: 158.179.184.1
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- client-fingerprint: randomized
+  flow: ''
+  mode: ''
+  name: 0|🇹🇼26 |  1.0MB/s
+  network: ws
+  port: 2052
+  server: 104.26.13.228
+  servername: ''
+  tls: false
+  type: vless
+  udp: false
+  uuid: 282533b1-cbf1-40a6-b399-a1116163fcc5
+  ws-opts:
+    headers:
+      Host: throbbing-haze-ac69.guoronghuang180.workers.dev
+    path: /?ed=2560
+- name: 0|🇹🇼27 |  3.9MB/s
+  network: ws
+  port: 12312
+  server: 220.86.117.70
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼28 |  1.9MB/s
+  network: ws
+  port: 2096
+  server: 27.50.49.188
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼29 |  2.3MB/s
+  network: ws
+  port: 443
+  server: 158.179.189.37
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼30 |  3.0MB/s
+  network: ws
+  port: 443
+  server: arvind.ns.cloudflare.com
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼31 |  5.0MB/s
+  network: ws
+  port: 21276
+  server: 211.33.238.198
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 0|🇹🇼32 |  8.1MB/s
+  network: ws
+  port: 50000
+  server: 119.207.226.222
+  servername: agedgm.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: agedgm.ambercc.filegear-sg.me
     path: /?ed=2560
 - cipher: aes-256-gcm
   client-fingerprint: chrome
