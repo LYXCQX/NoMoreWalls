@@ -1,17 +1,17 @@
 proxies:
-- client-fingerprint: randomized
+- client-fingerprint: chrome
   flow: ''
   mode: ''
-  name: 0|🌀13-SE |  2.3MB/s
+  name: 0|🌀11-SE |  1.2MB/s
   network: ws
-  port: 443
-  server: 172.66.44.162
-  servername: bESTIVpN.paGeS.DEV
+  port: 2096
+  server: 172.67.202.155
+  servername: mEHrneWs.oneTWOTHrEE123.iR
   tls: true
   type: vless
   udp: false
-  uuid: 3e235d06-f9c9-450c-9a07-a8dc933326f0
+  uuid: f411e405-da5e-47aa-93bb-8454c6f59ae1
   ws-opts:
     headers:
-      Host: bestivpn.pages.dev
-    path: /VTRW8C7XmWQUCZd5?ed=2560
+      Host: mehrnews.onetwothree123.ir
+    path: /m3PXEz1aEnAZ7wb9bS7H1OOKD

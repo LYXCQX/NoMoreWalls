@@ -1,4 +1,31 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|🇺🇸16 |  1.6MB/s
+  network: tcp
+  port: 41402
+  server: 120.232.153.123
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-headers:
+    Host: 120.232.153.123
+  ws-path: /
+- name: 0|🇺🇸17 |  1.5MB/s
+  network: ws
+  password: 6040a753-e35b-4384-8713-96f3c639b621
+  port: 443
+  server: 172.67.204.22
+  skip-cert-verify: true
+  sni: kju84.890602.XYZ
+  tfo: false
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: kju84.890602.XYZ
+    path: /WxWOWO1YA9bs2HOmaeWimvT3
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
