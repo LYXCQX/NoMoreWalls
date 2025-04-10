@@ -1,15 +1,47 @@
 proxies:
-- allowInsecure: ''
-  name: 0|🌀11-SE |  1.0MB/s
+- alterId: 0
+  cipher: auto
+  name: 0|🌀1-SE |  1.1MB/s
   network: ws
-  password: 9kHuEbiX7Bcp
+  port: 8443
+  server: manager.onetwothree123.ir
+  servername: manager.onetwothree123.ir
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: b3a26392-9981-4c46-bf0f-ac24d84de1f7
+  ws-opts:
+    headers:
+      Host: manager.onetwothree123.ir
+    path: /🆔@M3HDIO1
+- allowInsecure: ''
+  name: 0|🌀2-SE |  1.3MB/s
+  network: ws
+  password: dreDeMpIQpnv
   port: 2053
-  server: 172.67.141.68
+  server: 104.21.44.185
   skip-cert-verify: false
-  sni: khabaronline.itn24.ir
+  sni: aryanews.onetwothree123.ir
   tls: true
   type: trojan
   ws-opts:
     headers:
-      Host: khabaronline.itn24.ir
+      Host: aryanews.onetwothree123.ir
+    path: /🆔@M3HDIO1
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|🌀3-SE |  3.4MB/s
+  network: ws
+  port: 8443
+  server: mehrnews.twn24.ir
+  servername: mehrnews.twn24.ir
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f0baa770-0100-4ed2-aa60-b6bdd512cbb9
+  ws-opts:
+    headers:
+      HOST: mehrnews.twn24.ir
     path: /🆔@M3HDIO1

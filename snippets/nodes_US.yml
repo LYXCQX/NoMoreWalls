@@ -1,18 +1,22 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸3 |  1.2MB/s
-  password: 474b0248-8ffa-4e49-a415-49d907171fc6
-  port: 36215
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
+- name: 0|🇺🇸5 |  5.9MB/s
+  network: ws
+  password: cd0e795a-4f26-4f8c-9981-ed8b7dcb6126
+  port: 443
+  server: 104.21.73.150
+  sni: sDFgHU.931.pP.ua
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sDFgHU.931.pP.ua
+    path: /93fAx7DxPbqU8RhisheV
 - alterId: 0
   cipher: auto
-  name: 0|🇺🇸6 |  4.1MB/s
+  name: 0|🇺🇸8 |  4.6MB/s
   network: ws
-  port: 2053
+  port: 2083
   raw:
-    add: 172.67.213.166
+    add: 104.21.23.210
     aid: '0'
     alpn: ''
     fp: ''
@@ -20,14 +24,14 @@ proxies:
     id: afb837ad-79e7-4438-96d1-b8f7077999aa
     net: ws
     path: /rak2-sub.932.pp.ua
-    port: '2053'
+    port: '2083'
     ps: 🔥Join+Telegram:@FarahVPN🟣
     scy: auto
     sni: rak2-sub.932.pp.ua
     tls: tls
     type: ''
     v: '2'
-  server: 172.67.213.166
+  server: 104.21.23.210
   servername: rak2-sub.932.pp.ua
   tls: true
   type: vmess
@@ -36,23 +40,38 @@ proxies:
     headers:
       Host: rak2-sub.932.pp.ua
     path: /rak2-sub.932.pp.ua
-- name: 0|🇺🇸7 |  1.7MB/s
+- allowInsecure: '0'
+  name: 0|🇺🇸13 |  1.3MB/s
   network: ws
-  password: 6040a753-e35b-4384-8713-96f3c639b621
+  password: 89c1aea7-4d0d-4013-b663-0f94a3e6bdbd
   port: 443
-  server: 172.67.200.238
-  skip-cert-verify: true
-  sni: uK803.890689.Xyz
-  tfo: false
+  server: sanjose01.852224.ggff.net
+  skip-cert-verify: false
   type: trojan
-  udp: true
   ws-opts:
-    headers:
-      Host: uK803.890689.Xyz
-    path: /WxWOWO1YA9bs2HOmaeWimvT3
+    path: /T5yZBrY2Qkg2cThJQeJb
 - alterId: 0
   cipher: auto
-  name: 0|🇺🇸13 |  3.1MB/s
+  name: 0|🇺🇸15 |  4.0MB/s
+  port: 5228
+  server: 8d3d7f83-suk9s0-sv6oiy-1p1b.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
+- name: 0|🇺🇸17 |  3.4MB/s
+  network: ws
+  password: cd0e795a-4f26-4f8c-9981-ed8b7dcb6126
+  port: 443
+  server: 172.67.163.102
+  sni: sDFgHU.931.pP.ua
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sDFgHU.931.pP.ua
+    path: /93fAx7DxPbqU8RhisheV
+- alterId: 0
+  cipher: auto
+  name: 0|🇺🇸21 |  5.5MB/s
   network: tcp
   port: 5229
   server: 405b7d32-suk9s0-tcmdts-1mmu6.cu.plebai.net
@@ -63,18 +82,6 @@ proxies:
   ws-headers:
     Host: 405b7d32-suk9s0-tcmdts-1mmu6.cu.plebai.net
   ws-path: /
-- allowInsecure: ''
-  name: 0|🇺🇸31 |  1.4MB/s
-  network: ws
-  password: 89c1aea7-4d0d-4013-b663-0f94a3e6bdbd
-  port: 443
-  server: sanjose01.852224.ggff.net
-  skip-cert-verify: false
-  sni: sanjose01.852224.ggff.net
-  tls: true
-  type: trojan
-  ws-opts:
-    path: /T5yZBrY2Qkg2cThJQeJb
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
