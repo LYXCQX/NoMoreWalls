@@ -1,10 +1,18 @@
 proxies:
-- name: 0|🇬🇧1 |  5.4MB/s
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.132.220.128
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇬🇧1 |  1.3MB/s
+  password: 474b0248-8ffa-4e49-a415-49d907171fc6
+  port: 36271
+  server: free.2weradf.xyz
+  type: ss
+  udp: true
+- allowInsecure: ''
+  name: 0|🇬🇧4 |  1.5MB/s
+  network: original
+  password: b19c4375-d847-4c40-9824-4767c88b5f38
+  port: 10200
+  server: www.ak-hk.top
   skip-cert-verify: false
-  sni: trojan.burgerip.co.uk
   type: trojan
 - cipher: aes-256-gcm
   client-fingerprint: chrome
