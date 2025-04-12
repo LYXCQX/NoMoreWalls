@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0|🇷🇺3 |  5.0MB/s
+  name: 0|🇷🇺3 |  3.5MB/s
   network: tcp
   port: 20779
   server: 45.12.114.15
