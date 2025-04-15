@@ -1,46 +1,29 @@
 proxies:
-- name: 0|🇰🇷1 |  1.5MB/s
-  network: ws
-  port: 443
-  server: 135.84.76.105
-  servername: vb.ylks0033.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
+- country: 🇰🇷KR
+  name: 0|🇰🇷1 |  3.6MB/s
+  password: 867f512f-93d2-4344-853c-50965de9b103
+  port: 55215
+  server: shy23.zqjc.cloud
+  skip-cert-verify: false
+  sni: shy23.zqjc.cloud
+  type: hysteria2
   udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+- client-fingerprint: ''
+  flow: ''
+  mode: ''
+  name: 0|🇰🇷2 |  5.8MB/s
+  network: ws
+  port: 80
+  server: 45.131.4.161
+  servername: ''
+  tls: false
+  type: vless
+  udp: false
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
   ws-opts:
     headers:
-      host: vb.ylks0033.dpdns.org
-    path: /?ed=2560
-- name: 0|🇰🇷2 |  4.0MB/s
-  network: ws
-  port: 443
-  server: benedict.ns.cloudflare.com
-  servername: vb.ylks0033.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: vb.ylks0033.dpdns.org
-    path: /?ed=2560
-- name: 0|🇰🇷3 |  5.2MB/s
-  network: ws
-  port: 443
-  server: toy-people.com
-  servername: vb.ylks0033.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: vb.ylks0033.dpdns.org
-    path: /?ed=2560
+      Host: redfree8.pooriashop.ir
+    path: ''
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
