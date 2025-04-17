@@ -1,17 +1,12 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0|🇰🇷1 |  1.7MB/s
-  network: tcp
+  name: 0|🇰🇷2 |  3.8MB/s
   port: 17232
-  server: b79d3418-sux8g0-swe4j1-1rfon.cm5.p5pv.com
-  skip-cert-verify: true
+  server: 2b6fa9f9-sum4g0-sv6oiy-1p1b.cm5.p5pv.com
   tls: false
   type: vmess
-  uuid: aed1cc24-351d-11ef-ba52-f23c9164ca5d
-  ws-headers:
-    Host: b79d3418-sux8g0-swe4j1-1rfon.cm5.p5pv.com
-  ws-path: /
+  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
