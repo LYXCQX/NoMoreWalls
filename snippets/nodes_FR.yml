@@ -1,44 +1,23 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|🇫🇷2 |  1.6MB/s
-  network: tcp
-  port: 17235
-  server: 86bfc334-sv2sg0-sy2gtj-2fdn.cm5.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: e8001124-1ff5-11ee-abc1-f23c9164ca5d
-  ws-headers:
-    Host: 86bfc334-sv2sg0-sy2gtj-2fdn.cm5.p5pv.com
-  ws-path: /
 - alterId: '0'
   cipher: auto
-  name: 0|🇫🇷4 |  2.0MB/s
+  name: 0|🇫🇷6 |  1.3MB/s
   network: tcp
   port: '17235'
-  server: 00fd0574-sux8g0-sv07nd-jtx1.cm5.p5pv.com
+  server: f03ae55c-sv2sg0-syeco3-rnpk.cm5.p5pv.com
   type: vmess
-  uuid: 947dde8e-bcf5-11ef-af4a-f23c91cfbbc9
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇫🇷5 |  3.2MB/s
-  password: 84b48f4f0f3517d4
-  port: 11202
-  server: 57.130.11.204
-  tfo: false
-  type: ss
-  udp: true
+  uuid: 6ebe8312-097e-11f0-a2ef-f23c91cfbbc9
 - alterId: '0'
   cipher: auto
-  name: 0|🇫🇷7 |  2.4MB/s
+  name: 0|🇫🇷7 |  1.1MB/s
   network: tcp
   port: '17235'
-  server: c1be5110-sv2sg0-td6bp2-1h5ry.cm5.p5pv.com
+  server: 694bbf56-sv2sg0-t6g8gl-ch5c.cm5.p5pv.com
   type: vmess
-  uuid: 545ff4da-9571-11ec-a8bf-f23c91cfbbc9
+  uuid: 6e313598-a088-11ea-a22e-f23c91cfbbc9
 - alterId: '0'
   cipher: auto
-  name: 0|🇫🇷8 |  2.0MB/s
+  name: 0|🇫🇷8 |  1.5MB/s
   network: tcp
   port: '17235'
   server: 8bbddc24-sux8g0-tb8whl-1tfmh.cm5.p5pv.com
