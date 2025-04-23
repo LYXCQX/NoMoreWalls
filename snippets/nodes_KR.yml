@@ -1,30 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|🇰🇷1 |  2.8MB/s
-  network: tcp
-  port: 17232
-  server: 33e096fb-sva740-sxnljm-1jr1u.cm5.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 2c01eae6-0b6a-11ee-a058-f23c91369f2d
-  ws-headers:
-    Host: 33e096fb-sva740-sxnljm-1jr1u.cm5.p5pv.com
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  name: 0|🇰🇷3 |  1.6MB/s
-  network: tcp
-  port: 17232
-  server: cd5a3a1e-sv8cg0-tcw58g-1p0be.cm5.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 55cce5a4-56b7-11ee-af82-f23c9164ca5d
-  ws-headers:
-    Host: cd5a3a1e-sv8cg0-tcw58g-1p0be.cm5.p5pv.com
-  ws-path: /
 - client-fingerprint: chrome
   name: 13,14|韩国|@ripaojiedian
   network: tcp
