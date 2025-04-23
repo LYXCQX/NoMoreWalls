@@ -1,17 +1,46 @@
 proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇰🇷1 |  1.5MB/s
+- alterId: 0
+  cipher: auto
+  name: 0|🇰🇷1 |  2.8MB/s
   network: tcp
-  port: 21082
-  reality-opts:
-    public-key: tf7ZDGaue4C43MM0ECIfjOS-0kk7XMSqfnaSY4Er5Fc
-    short-id: 758719a6080f2767
-  server: tw-ty-line1-2-2.sudatech.store
-  servername: learn.microsoft.com
+  port: 17232
+  server: 33e096fb-sva740-sxnljm-1jr1u.cm5.p5pv.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2c01eae6-0b6a-11ee-a058-f23c91369f2d
+  ws-headers:
+    Host: 33e096fb-sva740-sxnljm-1jr1u.cm5.p5pv.com
+  ws-path: /
+- client-fingerprint: chrome
+  flow: ''
+  mode: ''
+  name: 0|🇰🇷2 |  4.0MB/s
+  network: ws
+  port: 443
+  server: 172.67.204.84
+  servername: ipsychO.SUEx12.Ir
   tls: true
   type: vless
-  uuid: e7adaa99-8363-3ec4-b849-307c99005405
+  udp: false
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: ipsycho.suex12.ir
+    path: /TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512flow=-udp443flow=-udp443
+- alterId: 0
+  cipher: auto
+  name: 0|🇰🇷3 |  1.6MB/s
+  network: tcp
+  port: 17232
+  server: cd5a3a1e-sv8cg0-tcw58g-1p0be.cm5.p5pv.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 55cce5a4-56b7-11ee-af82-f23c9164ca5d
+  ws-headers:
+    Host: cd5a3a1e-sv8cg0-tcw58g-1p0be.cm5.p5pv.com
+  ws-path: /
 - client-fingerprint: chrome
   name: 13,14|韩国|@ripaojiedian
   network: tcp
@@ -54,6 +83,20 @@ proxies:
   network: ws
   port: 10397
   server: 59.23.155.196
+  servername: edcca.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      Host: edcca.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 15|KR_speednode_0067
+  network: ws
+  port: 30025
+  server: 221.144.200.91
   servername: edcca.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true

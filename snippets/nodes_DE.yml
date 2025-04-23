@@ -1,1 +1,23 @@
-proxies: []
+proxies:
+- name: 0|🇩🇪5 |  5.3MB/s
+  password: '!!str 3828095943467868160'
+  port: 443
+  server: immense-goose.dolphin109.quest
+  skip-cert-verify: true
+  sni: immense-goose.dolphin109.quest
+  type: trojan
+- name: 0,15|GB_speednode_0059
+  password: '!!str 3828095943467868160'
+  port: 443
+  server: 202.78.163.141
+  skip-cert-verify: true
+  sni: sharp-bear.dolphin109.quest
+  type: trojan
+  udp: true
+- name: 0|🇩🇪13 |  4.2MB/s
+  password: '!!str 3828095943467868160'
+  port: 443
+  server: 202.78.163.146
+  skip-cert-verify: true
+  sni: immense-goose.dolphin109.quest
+  type: trojan
