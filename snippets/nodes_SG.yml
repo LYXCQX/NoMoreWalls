@@ -10,6 +10,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 85d450b2-1c2b-11f0-8a7b-f23c913c8d2b
+- name: 0|🇸🇬4 |  5.3MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 38340
+  server: gysz0000.dynu.net
+  skip-cert-verify: true
+  sni: hk39.work.gd
+  type: trojan
+- name: 0|🇸🇬5 |  5.9MB/s
+  password: eeca07f0-ff6d-4410-a4a0-48d2c884e6a5
+  port: 42881
+  server: aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz
+  skip-cert-verify: false
+  sni: q08m.vgraxiw73s.hasyaf.cn
+  type: trojan
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -36,6 +50,14 @@ proxies:
   skip-cert-verify: false
   sni: q08m.vgraxiw73s.hasyaf.cn
   type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 13|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 43.207.139.84
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 14|新加坡3|@ripaojiedian
