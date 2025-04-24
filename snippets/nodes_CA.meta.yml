@@ -1,57 +1,9 @@
 proxies:
-- name: 0|🇨🇦1 |  1.4MB/s
-  network: ws
-  port: 443
-  server: 160.79.105.72
-  servername: sv.ylka.dpdns.org
+- auth: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+  name: 0|🇨🇦1 |  1.4MB/s
+  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+  port: 45979
+  server: 132.145.108.102
   skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: sv.ylka.dpdns.org
-    path: /?ed=2560
-- name: 0|🇨🇦2 |  1.6MB/s
-  network: ws
-  port: 443
-  server: otto.ns.cloudflare.com
-  servername: sv.ylka.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: sv.ylka.dpdns.org
-    path: /?ed=2560
-- name: 0|🇨🇦3 |  1.3MB/s
-  network: ws
-  port: 443
-  server: 192.0.54.25
-  servername: sv.ylka.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: sv.ylka.dpdns.org
-    path: /?ed=2560
-- name: 0|🇨🇦4 |  1.1MB/s
-  network: ws
-  port: 443
-  server: icook.hk
-  servername: sv.ylka.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: sv.ylka.dpdns.org
-    path: /?ed=2560
+  sni: www.bing.com
+  type: hysteria2

@@ -1,21 +1,17 @@
 proxies:
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0,13|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 52.194.185.159
-  tfo: false
-  type: ss
-- name: 0|🇯🇵4 |  4.9MB/s
-  password: 70cf98ad-29b6-445c-9d36-7e91b45a2f53
-  port: 27001
-  server: sla.cn.964e995b760.gogodns.xin
+- alterId: 0
+  cipher: auto
+  name: 0|🇯🇵5 |  1.3MB/s
+  network: tcp
+  port: 17233
+  server: 8582ab4a-svc1s0-szegoe-12hj8.cm5.p5pv.com
   skip-cert-verify: true
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  tfo: false
-  type: trojan
-  udp: true
+  tls: false
+  type: vmess
+  uuid: 5acc7a7c-d7ea-11eb-8673-f23c9164ca5d
+  ws-headers:
+    Host: 8582ab4a-svc1s0-szegoe-12hj8.cm5.p5pv.com
+  ws-path: /
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian
@@ -72,6 +68,14 @@ proxies:
     headers:
       Host: ocbc.com
     path: /oooo
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 13|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 52.194.185.159
+  tfo: false
+  type: ss
 - alterId: 64
   cipher: auto
   name: 14|日本3|@ripaojiedian
