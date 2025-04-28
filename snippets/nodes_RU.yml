@@ -1,1 +1,15 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 14|俄罗斯|@ripaojiedian
+  network: ws
+  port: '1053'
+  server: 199.247.1.99
+  servername: just-moscow-01.vnode.info
+  tls: true
+  type: vmess
+  uuid: 5147a5d1-ae9b-407e-8e27-8a4e333df4b0
+  ws-opts:
+    headers:
+      Host: just-moscow-01.vnode.info
+    path: /
