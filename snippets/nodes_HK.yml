@@ -1,13 +1,13 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 0|🇭🇰2 |  1.4MB/s
+  name: 0|🇭🇰3 |  2.1MB/s
   network: ws
   port: 80
-  server: baeb9e1b-sv6hs0-svewl8-xu74.hk.p5pv.com
+  server: bd483412-sv8cg0-sveyey-44k4.hk.p5pv.com
   tls: false
   type: vmess
-  uuid: 715a2574-9c25-11eb-8673-f23c9164ca5d
+  uuid: c5eb2c2c-bc1d-11ed-a8bf-f23c91cfbbc9
   ws-opts:
     headers:
       Host: broadcastlv.chat.bilibili.com
@@ -18,7 +18,7 @@ proxies:
   country: 🇭🇰 HK
   h2-opts: {}
   http-opts: {}
-  name: 0|🇭🇰6 |  2.9MB/s
+  name: 0|🇭🇰5 |  1.1MB/s
   network: ws
   port: 80
   server: 7c354dbb-sv2sg0-svak69-1f9n2.hk.p5pv.com
@@ -30,22 +30,6 @@ proxies:
     headers:
       HOST: broadcastlv.chat.bilibili.com
       Host: 7c354dbb-sv2sg0-svak69-1f9n2.hk.p5pv.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 0|🇭🇰7 |  1.6MB/s
-  network: ws
-  port: 80
-  server: eadf838f-sva740-sveyey-44k4.hk.p5pv.com
-  skip-cert-verify: true
-  tfo: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c5eb2c2c-bc1d-11ed-a8bf-f23c91cfbbc9
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
     path: /
 - client-fingerprint: chrome
   name: 13|🇭🇰 香港|@ripaojiedian

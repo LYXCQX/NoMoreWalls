@@ -1,5 +1,56 @@
 proxies:
-- name: 0|🇹🇼8 |  1.6MB/s
+- name: 0|🇹🇼1 |  5.2MB/s
+  network: ws
+  password: Aimer
+  port: 2083
+  server: 103.116.7.103
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼3 |  6.1MB/s
+  network: ws
+  password: Aimer
+  port: 443
+  server: 141.11.203.168
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼5 |  1.8MB/s
+  network: ws
+  password: Aimer
+  port: 2087
+  server: 5.182.84.9
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼6 |  1.5MB/s
+  network: ws
+  password: Aimer
+  port: 443
+  server: 108.165.152.113
+  skip-cert-verify: false
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼7 |  1.3MB/s
   network: ws
   password: Aimer
   port: 2096
@@ -12,11 +63,11 @@ proxies:
     headers:
       host: epcca.ambercc.filegear-sg.me
     path: /?ed=2560&proxyip=ts.hpc.tw
-- name: 0|🇹🇼10 |  5.7MB/s
+- name: 0|🇹🇼8 |  5.4MB/s
   network: ws
   password: Aimer
-  port: 2087
-  server: 167.68.5.248
+  port: 443
+  server: 108.165.152.219
   skip-cert-verify: true
   sni: epcca.ambercc.filegear-sg.me
   type: trojan
@@ -25,11 +76,102 @@ proxies:
     headers:
       host: epcca.ambercc.filegear-sg.me
     path: /?ed=2560&proxyip=ts.hpc.tw
-- name: 0|🇹🇼11 |  5.8MB/s
+- name: 0|🇹🇼10 |  5.9MB/s
   network: ws
   password: Aimer
   port: 8443
-  server: 46.254.93.52
+  server: 92.243.74.239
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼14 |  2.2MB/s
+  network: ws
+  password: Aimer
+  port: 2083
+  server: 108.165.152.130
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼15 |  2.4MB/s
+  network: ws
+  password: Aimer
+  port: 8443
+  server: 192.200.160.19
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼18 |  2.3MB/s
+  network: ws
+  password: Aimer
+  port: 2096
+  server: 156.225.72.199
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼20 |  1.1MB/s
+  network: ws
+  password: Aimer
+  port: 8443
+  server: 192.200.160.15
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼22 |  5.7MB/s
+  network: ws
+  password: Aimer
+  port: 2087
+  server: 154.219.5.56
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼23 |  1.3MB/s
+  network: ws
+  password: Aimer
+  port: 443
+  server: 103.116.7.248
+  skip-cert-verify: true
+  sni: epcca.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: epcca.ambercc.filegear-sg.me
+    path: /?ed=2560&proxyip=ts.hpc.tw
+- name: 0|🇹🇼24 |  5.4MB/s
+  network: ws
+  password: Aimer
+  port: 2083
+  server: 27.50.49.47
   skip-cert-verify: true
   sni: epcca.ambercc.filegear-sg.me
   type: trojan
