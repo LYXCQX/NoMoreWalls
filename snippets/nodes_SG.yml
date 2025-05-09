@@ -1,18 +1,33 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  delay: 1603
-  name: 0|🇸🇬3 |  5.4MB/s|62%|Netflix|Dis...
-  network: ws
-  port: 8080
-  server: yx1.niaoba.top
-  tls: false
-  type: vmess
-  uuid: 763b29f0-ffba-42e8-a054-d595092135e6
-  ws-opts:
-    headers:
-      Host: 1176552658409.vmsg3.taobao.pdd.niaoba.top
-    path: /
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇸🇬1 |  1.1MB/s|54%|Youtube|Ope...
+  obfs: tls1.2_ticket_auth
+  obfs-param: sg2-cdn-route.couldflare-cdn.com
+  password: uiACqrIr
+  port: 56138
+  protocol: origin
+  protocol-param: ''
+  server: cm2.xcone.xyz
+  type: ssr
+- client-fingerprint: chrome
+  name: 0|🇸🇬4 |  6.2MB/s|0%|Netflix|Disn...
+  password: 54231b3d-a39d-4769-a511-2a1c663a62b1
+  port: '443'
+  server: 3.1.36.118
+  skip-cert-verify: false
+  sni: sg01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 0|🇸🇬6 |  6.2MB/s|0%|Netflix|Disn...
+  password: 54231b3d-a39d-4769-a511-2a1c663a62b1
+  port: '443'
+  server: sg02.trojanyyds.xyz
+  skip-cert-verify: false
+  sni: sg02.trojanyyds.xyz
+  type: trojan
+  udp: true
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome

@@ -1,6 +1,6 @@
 proxies:
 - auth: nfsn666
-  name: 0|🇬🇧1 |  5.2MB/s|62%|Netflix|You...
+  name: 0|🇬🇧1 |  5.0MB/s|62%|Youtube|Ope...
   password: nfsn666
   port: 8888
   server: ld-arm.nfsn666.gq
@@ -9,59 +9,72 @@ proxies:
   type: hysteria2
   udp: true
 - client-fingerprint: chrome
-  mode: ''
-  name: 0|🇬🇧2 |  1.6MB/s|0%|Openai
-  network: ws
-  port: 443
-  server: 188.42.88.45
-  servername: CxNiMjJz.cAfUnEaR.InFo
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 0|🇬🇧2 |  3.9MB/s|0%|Openai
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c
+    short-id: 7e39db0c
+  server: V2RayMizban.iranigamepars.ir
+  servername: www.cdn77.com
   tls: true
   type: vless
-  udp: false
-  uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
-  ws-opts:
-    headers:
-      Host: CxNiMjJz.cAfUnEaR.InFo
-    path: /
-- delay: 852
-  down: ''
-  fingerprint: ''
-  name: 0|🇬🇧3 |  5.0MB/s|32%|Youtube|Ope...
-  obfs: ''
-  obfs-password: ''
-  password: 857612aa-9ca5-46df-b976-8b887fdf8625
-  port: 1443
-  server: 185.85.242.177
-  skip-cert-verify: false
-  sni: gbr1.587458.xyz
-  type: hysteria2
-  up: ''
-- auth: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
-  delay: 1286
-  name: 0|🇬🇧4 |  3.3MB/s|Disney|Youtube|...
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
-  port: 25558
-  ports: 21000-26000
-  server: yg1.gy6688.xyz
-  skip-cert-verify: true
-  sni: yg1.gy6688.xyz
-  type: hysteria2
   udp: true
-- auth: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
-  delay: 810
-  name: 0|🇬🇧5 |  3.6MB/s|Youtube|Openai
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
-  port: 23106
-  ports: 21000-26000
-  server: yg1.gy6688.xyz
-  skip-cert-verify: true
-  sni: yg1.gy6688.xyz
-  type: hysteria2
+  uuid: f807d70f-d5bd-45b7-aa1e-abcd0a79cfe7
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: safari
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 0|🇬🇧3 |  5.4MB/s|64%|Youtube|Ope...
+  network: tcp
+  port: '443'
+  server: 57.128.178.253
+  servername: en.linceedab.com
+  tls: true
+  type: vless
   udp: true
+  uuid: 9aed32d7-3556-48a4-95f8-e82dcc2e1b54
+  xudp: true
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config
+  name: 0|🇬🇧4 |  5.4MB/s|0%|Netflix|Disn...
+  network: grpc
+  port: '2030'
+  reality-opts:
+    public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
+    short-id: 7fe29733
+  server: ns7.esfahansiman.com
+  servername: refersion.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: a0141f76-4fb8-40a5-a404-926cf2dff73a
+  xudp: true
+- cipher: aes-256-cfb
+  name: 0|🇬🇧5 |  2.3MB/s|0%|Youtube|Open...
+  password: f8f7aCzcPKbsF8p3
+  port: '989'
+  server: 62.100.205.48
+  type: ss
+  udp: true
+- auth: ae845cbd-08fb-4346-929a-e28a6f3960a8
+  client-fingerprint: chrome
+  name: 0|🇬🇧6 |  1.9MB/s|67%|Openai
+  password: ae845cbd-08fb-4346-929a-e28a6f3960a8
+  port: 24870
+  server: uk2.shiyuandian.shop
+  skip-cert-verify: true
+  sni: uk2.shiyuandian.shop
+  type: hysteria2
 - name: 15|GB_speednode_0016
   network: ws
   port: 24443
