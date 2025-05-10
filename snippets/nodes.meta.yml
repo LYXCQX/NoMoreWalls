@@ -2424,15 +2424,14 @@ proxies:
   username: dmpyoary@mayorlogistic.com
 - down: ''
   fingerprint: ''
-  name: 0,8|@ا+ا
+  name: 0|🇳🇱8 |  3.8MB/s|46%|Openai
   obfs: salamander
   obfs-password: '@SiNAVM-@SiNAVM-@SiNAVM-@SiNAVM'
   password: Bia-SiNAVM-SiNAVM-SiNAVM-SiNAVM
-  port: 8080
+  port: '8080'
   server: sinavm.sinabigo.ir
   skip-cert-verify: false
   sni: ''
-  tls: false
   type: hysteria2
   up: ''
 - alpn:
