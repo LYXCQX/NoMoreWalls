@@ -3,7 +3,7 @@ proxies:
   - h3
   delay: 382
   disable-sni: false
-  name: 0|🇷🇺1 |  2.5MB/s|50%
+  name: 0|🇷🇺1 |  5.6MB/s|50%
   password: f3ba3679-f2f4-465f-92a5-de320b775a88
   port: 43516
   reduce-rtt: false
@@ -15,9 +15,17 @@ proxies:
   udp-relay-mode: native
   uuid: f3ba3679-f2f4-465f-92a5-de320b775a88
   version: 5
+- auth: dongtaiwang.com
+  name: 0|🇷🇺2 |  2.2MB/s|50%|Youtube
+  password: dongtaiwang.com
+  port: 10011
+  server: 46.17.41.217
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
 - down: ''
   fingerprint: ''
-  name: 0|🇷🇺2 |  3.6MB/s|0%
+  name: 0|🇷🇺3 |  2.1MB/s|0%
   obfs: ''
   obfs-password: ''
   password: dongtaiwang.com
@@ -27,34 +35,20 @@ proxies:
   sni: www.bing.com
   type: hysteria2
   up: ''
-- name: 0|🇷🇺3 |  2.3MB/s|0%|Youtube
-  password: cacb4d4fa26f4eed25e4d17a6370083c
-  port: 443
-  server: stpetersburg.sqx001.com
+- name: 15|RU_speednode_0031
+  network: ws
+  port: 80
+  server: 45.8.211.61
+  servername: ipsycho.suex12.ir
   skip-cert-verify: true
-  tls: true
-  type: http
+  tls: false
+  type: vless
   udp: true
-  username: dmpyoary@mayorlogistic.com
-- alpn:
-  - h3
-  auth_str: dongtaiwang.com
-  down: 1000 Mbps
-  name: 0|🇷🇺4 |  1.7MB/s|50%
-  port: 10803
-  server: 185.22.155.71
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria
-  up: 1000 Mbps
-- auth: dongtaiwang.com
-  name: 0|🇷🇺5 |  3.2MB/s|50%|Youtube
-  password: dongtaiwang.com
-  port: 10011
-  server: 46.17.41.217
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: ipsycho.suex12.ir
+    path: /re5IzbZ9IZZMddtw?ed=2560
 - client-fingerprint: random
   name: 15|RU_speednode_0033
   network: ws
