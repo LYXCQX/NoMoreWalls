@@ -1,34 +1,48 @@
 proxies:
-- name: 0,15|LT_speednode_0041
+- name: 0,15|US_speednode_0055
   network: ws
-  port: 80
-  server: 89.116.250.78
-  servername: ipsycho.suex12.ir
+  port: 8080
+  server: 170.114.45.6
+  servername: xrr.rtxconfigz.xyz
   skip-cert-verify: false
   tls: false
   type: vless
   udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
   ws-opts:
     headers:
-      Host: ipsycho.suex12.ir
-    path: /Telegram🇨🇳 @WangCai2 /?ed=2560
-- cipher: chacha20-ietf
-  name: 0|🇸🇬2 |  5.8MB/s|0%|Netflix|Disn...
-  password: asd123456
-  port: '8388'
-  server: 103.36.91.32
-  type: ss
+      Host: xrr.rtxconfigz.xyz
+    path: /
+- flow: none
+  name: 0|🇸🇬5 |  2.2MB/s|Youtube|Openai
+  network: ws
+  port: 8080
+  server: support.zoom.us
+  servername: xrr.rtxconfigz.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vless
   udp: true
-- name: 0|🇸🇬3 |  1.1MB/s|61%|Youtube|Ope...
-  password: 25d55ad283aa400af464c76d713c07ad
-  port: 8444
-  server: singapore02.sqx001.com
-  skip-cert-verify: true
-  tls: true
-  type: http
+  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
+  ws-opts:
+    headers:
+      Host: xrr.rtxconfigz.xyz
+    path: /
+- name: 0|🇸🇬4 |  3.3MB/s|Youtube|Openai
+  network: ws
+  port: '8080'
+  server: 170.114.46.6
+  servername: xrr.rtxconfigz.xyz
+  type: vless
   udp: true
-  username: podbbylf@mayorlogistic.com
+  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
+  ws-opts:
+    headers:
+      Host: xrr.rtxconfigz.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/50.0.2661.102 Safari/537.36
+    path: ''
+  xudp: true
 - name: 12|新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056

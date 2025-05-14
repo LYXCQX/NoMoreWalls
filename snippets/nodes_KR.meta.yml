@@ -1,4 +1,33 @@
 proxies:
+- client-fingerprint: chrome
+  name: 0,15|RU_speednode_0044
+  network: ws
+  port: 80
+  server: 185.174.138.206
+  servername: ipsycho.suex12.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: ipsycho.suex12.ir
+    path: /re5IzbZ9IZZMddtw?ed=2560
+- name: 0,15|GB_speednode_0026
+  network: ws
+  port: 80
+  server: 94.247.142.19
+  servername: ipsycho.suex12.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: ipsycho.suex12.ir
+    path: /TelegramU0001F1E8U0001F1F3 @pgkj666 /?ed=2560
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇰🇷 韩国|@ripaojiedian
@@ -15,6 +44,21 @@ proxies:
   server: 13.250.27.89
   tfo: false
   type: ss
+- client-fingerprint: random
+  name: 15|KR_speednode_0037
+  network: ws
+  port: 10243
+  server: 221.151.124.103
+  servername: 0229.patterdeng.pp.ua
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 794f9f41-92c9-4a78-8ffc-1f82cb48a4e2
+  ws-opts:
+    headers:
+      Host: 0229.patterdeng.pp.ua
+    path: /?ed=2560
 - name: 15|KR_speednode_0038
   network: ws
   password: 6884d714-d3c4-4b49-aa20-767ea92837d6
