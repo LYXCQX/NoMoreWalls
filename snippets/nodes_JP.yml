@@ -1,14 +1,12 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇯🇵1 |  1.7MB/s|0%|Youtube|Open...
-  port: 20017
-  server: i.needss.top
-  tls: false
-  type: vmess
+- name: 0|🇯🇵1 |  1.3MB/s|0%|Disney|Youtu...
+  password: 905edb54-b4ce-47ad-ac94-51d58161a59a
+  port: 27001
+  server: 219.135.197.214
+  skip-cert-verify: true
+  sni: q08m.vgraxiw73s.hasyaf.cn
+  type: trojan
   udp: true
-  uuid: 61b159b3-860b-460b-a2e2-3c4ad3a42a23
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian

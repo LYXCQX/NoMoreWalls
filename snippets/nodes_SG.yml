@@ -1,32 +1,4 @@
 proxies:
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 0,13|🇸🇬 新加坡2|@ripaojiedian
-  password: UAO72K511KYT7NM7
-  port: 16003
-  server: ti3hyra4.slashdevslashnetslashtun.net
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇸🇬5 |  1.7MB/s|Youtube|Openai|...
-  port: 30028
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 61b159b3-860b-460b-a2e2-3c4ad3a42a23
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇸🇬6 |  2.5MB/s|Netflix|Disney|...
-  port: 20015
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 61b159b3-860b-460b-a2e2-3c4ad3a42a23
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -44,3 +16,11 @@ proxies:
     headers:
       Host: ocbc.com
     path: /oooo
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 13|🇸🇬 新加坡2|@ripaojiedian
+  password: UAO72K511KYT7NM7
+  port: 16003
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
