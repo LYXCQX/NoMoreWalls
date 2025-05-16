@@ -1,7 +1,14 @@
 proxies:
-- client-fingerprint: chrome
-  flow: none
-  name: 0,15|US_speednode_0126
+- auth: ethj7UIa34
+  client-fingerprint: chrome
+  name: 0|🇸🇬1 |  1.9MB/s|0%|Disney|Opena...
+  password: ethj7UIa34
+  port: 35993
+  server: uba.aelen.ggff.net
+  skip-cert-verify: true
+  sni: uba.aelen.ggff.net
+  type: hysteria2
+- name: 0,15|US_speednode_0126
   network: ws
   port: 8080
   server: support.zoom.us
@@ -15,6 +22,35 @@ proxies:
     headers:
       Host: xrr.rtxconfigz.xyz
     path: /
+- name: 0|🇸🇬3 |  5.7MB/s|Youtube|Openai
+  network: ws
+  port: '8080'
+  server: 170.114.45.6
+  type: vless
+  udp: true
+  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
+  ws-opts:
+    headers:
+      Host: xrr.rtxconfigz.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.102 Safari/537.36
+    path: /
+  xudp: true
+- name: 0|🇸🇬4 |  5.7MB/s|Youtube|Openai
+  network: ws
+  port: '8080'
+  server: 170.114.45.6
+  servername: xrr.rtxconfigz.xyz
+  type: vless
+  udp: true
+  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
+  ws-opts:
+    headers:
+      Host: xrr.rtxconfigz.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/46.0.2490.80 Safari/537.36
+    path: ''
+  xudp: true
 - name: 12|新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056

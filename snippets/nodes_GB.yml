@@ -1,12 +1,4 @@
 proxies:
-- name: 0|🇬🇧3 |  1.2MB/s|11%|Youtube|Ope...
-  password: 905edb54-b4ce-47ad-ac94-51d58161a59a
-  port: 44397
-  server: 58.254.186.222
-  skip-cert-verify: true
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  type: trojan
-  udp: true
 - name: 15|GB_speednode_0050
   network: ws
   password: 6884d714-d3c4-4b49-aa20-767ea92837d6
