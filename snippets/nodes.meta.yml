@@ -1916,6 +1916,16 @@ proxies:
   tls: false
   type: vmess
   uuid: b798372a-54c8-4597-969e-8b00d2f76c09
+- alterId: 0
+  cipher: auto
+  name: 14|韩国|@ripaojiedian
+  network: tcp
+  port: '49815'
+  server: 45.141.136.234
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 105af49c-e4ee-4294-b7cc-abfe6a651cf5
 - name: 15|AE_speednode_0001
   network: ws
   port: 8880
