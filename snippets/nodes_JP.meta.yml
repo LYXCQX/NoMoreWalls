@@ -52,7 +52,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 13,14|日本4|@ripaojiedian
+  name: 13,14|日本3|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 4445
@@ -68,11 +68,13 @@ proxies:
   skip-cert-verify: false
   sni: 096755a1-sytz40-syu28m-1mmbp.cm5.cnkuaishou.com
   type: trojan
-- name: 14|日本5|@ripaojiedian
+- name: 14|日本4|@ripaojiedian
   network: tcp
-  password: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
-  port: 27233
-  server: 096755a1-sytz40-syu28m-1mmbp.cm5.cnkuaishou.com
+  password: d0d08cddacc3190ea81b1b792e1b5fde
+  port: 39701
+  server: 36.151.192.60
+  skip-cert-verify: true
+  sni: www.baidu.com
   type: trojan
 - name: 15|JP_speednode_0058
   network: ws
