@@ -330,7 +330,7 @@ proxies:
   tls: false
   type: vmess
   uuid: fe797d32-6607-4b46-8e39-c4fb1e3c0872
-- name: 15|ES_speednode_0049
+- name: 15|ES_speednode_0048
   network: ws
   password: trojan
   port: 8443
