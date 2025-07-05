@@ -105,31 +105,33 @@ hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:18646?insecure=1&obfs=salamander&obfs-pas
 hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:20971?insecure=1&obfs=salamander&obfs-password=31khbqfou1njilgv2qoih#8%7C%40meli_proxyy%20%235
 hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#8%7C%40meli_proxyy%20%236
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#12%7C%40drakvpn%F0%9F%90%89
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.193.38.93:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
-ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM0LjIwMSIsICJwb3J0IjogNTkxNDksICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlZmJkYWJlYi02OGRmLTRjZDAtOTU5ZC03ZDRmNGI1MDg2MDkifQ==
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?allowInsecure=1&sni=www.baidu.com#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.58:51083?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.195.220.57:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ZmQ4NmI0MDA1YWZk@134.122.155.213:10349#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@3ce8ee8.hb.gladns.com:2377#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.24:50723?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:4445?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.29:53067?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.60:39701?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@15.165.19.79:6668?allowInsecure=1&sni=baidu.com#13%2C14%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@h.cm2.xiaomi-api.xyz:19852#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExMS4yNi4xMDkuNzkiLCAicG9ydCI6ICIzMDgyOCIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIiwgImhvc3QiOiAib2NiYy5jb20iLCAicGF0aCI6ICIvb29vbyJ9
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:20615?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E9%9F%A9%E5%9B%BD4%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.60:7571?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.60:40621?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E9%9F%A9%E5%9B%BD4%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:38482?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:7041?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakZtWg==@sg.opensocks.site:8388#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?allowInsecure=1&sni=baidu.com#13%2C14%7C%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:4447?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#13%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.56:5975?allowInsecure=1&sni=www.baidu.com#13%2C14%7C%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@52.193.38.93:443#14%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM0LjIwMSIsICJwb3J0IjogIjU5MTQ5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImVmYmRhYmViLTY4ZGYtNGNkMC05NTlkLTdkNGY0YjUwODYwOSIsICJzbmkiOiAiIn0=
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:444?allowInsecure=1&sni=www.baidu.com#14%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVhkemNITXdOVEF4@52.195.220.57:443#14%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDcuNzYuMjguNDMiLCAicG9ydCI6ICIzNDgzMyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkZDBkMzBhZS1hNGQxLTRkMWUtODU1My00MmJmZmY2NmZkMjciLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85Y+w5rm+djJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDUuNDMuMzcuMjUzIiwgInBvcnQiOiAiMTcwMjMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmU3OTdkMzItNjYwNy00YjQ2LThlMzktYzRmYjFlM2MwODcyIiwgInNuaSI6ICIifQ==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@p222.panda001.net:15098#14%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpXRm1ZekpsWmkxa05XWmtMVFJtTm1RdE9EQXpZaTFtWVdRMFlUVmpZekZtTUdV@h.cm2.xiaomi-api.xyz:19852#14%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwWmFrWnRXZw==@sg.opensocks.site:8388#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@103.163.218.2:989#14%7C%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@181.214.1.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CAE_speednode_0001
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@103.245.228.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CAE_speednode_0002
@@ -475,9 +477,10 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.245.205.226:6666?allowInsecure=
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.132.188.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CZA_speednode_0349
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.177.176.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CZA_speednode_0350
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CZA_speednode_0351
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-https://I6XOnV.absslk.xyz/a68f5e915997068b5fea4804ce0e5196
-https://TsAcKq.mcsslk.xyz/b3258a432cf88e6da71f438ab2211aec
-ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ZmQ4NmI0MDA1YWZk@134.122.155.213:10349?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbxpuuxbqsxeb%3Bhost%3Dhkxwv1-5.dsjsapi.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-GRRLQrsxj2.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+https://p6n1Qj.mcsslk.xyz/ce6cb613bb1448fb029661cf14cec90f
+https://05NGsw.absslk.xyz/872293ba0e299830811d58d17cef261a
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-GRRLQrsxj2.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.hb.gladns.com:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%29c47ab06%3A133288#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
