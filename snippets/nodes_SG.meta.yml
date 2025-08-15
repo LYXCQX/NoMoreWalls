@@ -76,10 +76,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡3|@ripaojiedian
+  name: 13,14|新加坡3|@ripaojiedian
   network: ws
-  port: 49102
+  port: '49102'
   server: free-relay.themars.top
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -106,13 +107,6 @@ proxies:
     headers:
       Host: e5406c2f4f42756d4a4089ffcd58947b.mobgslb.tbcache.com
     path: /
-- name: 14|新加坡3|@ripaojiedian
-  network: tcp
-  password: be76ac23-8ff8-4afe-a86e-5153f4ce869d
-  port: 25010
-  server: 8.148.194.255
-  skip-cert-verify: true
-  type: trojan
 - name: 15|SG_speednode_0169
   network: ws
   port: 8880

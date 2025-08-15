@@ -640,10 +640,11 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 13|🇭🇰 香港5|@ripaojiedian
+  name: 13,14|香港5|@ripaojiedian
   network: ws
-  port: 80
+  port: '80'
   server: hkt.gotochinatown.net
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -705,10 +706,11 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 13|🇯🇵 日本5|@ripaojiedian
+  name: 13,14|日本5|@ripaojiedian
   network: ws
-  port: 16617
+  port: '16617'
   server: planb.mojcn.com
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -743,10 +745,11 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 13|🇸🇬 新加坡3|@ripaojiedian
+  name: 13,14|新加坡3|@ripaojiedian
   network: ws
-  port: 49102
+  port: '49102'
   server: free-relay.themars.top
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -848,13 +851,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cb774883-1c2f-4b8a-8637-828f356e0c76
-- name: 14|新加坡3|@ripaojiedian
-  network: tcp
-  password: be76ac23-8ff8-4afe-a86e-5153f4ce869d
-  port: 25010
-  server: 8.148.194.255
-  skip-cert-verify: true
-  type: trojan
 - name: 14|美国|@ripaojiedian
   network: ws
   password: 7248e825-887c-48b9-83bc-c26bc6392bf8

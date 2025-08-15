@@ -48,10 +48,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 13|🇯🇵 日本5|@ripaojiedian
+  name: 13,14|日本5|@ripaojiedian
   network: ws
-  port: 16617
+  port: '16617'
   server: planb.mojcn.com
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
