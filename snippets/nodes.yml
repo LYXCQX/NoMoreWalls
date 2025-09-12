@@ -53,8 +53,7 @@ proxies:
     headers:
       Host: hkt.gotochinatown.net
     path: /
-- name: 13,14|香港4|@ripaojiedian
-  network: tcp
+- name: 13|🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 443
   server: 42.2.170.224
@@ -68,8 +67,7 @@ proxies:
   server: 43.198.113.57
   tfo: false
   type: ss
-- name: 13,14|香港6|@ripaojiedian
-  network: tcp
+- name: 13|🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 443
   server: 203.218.202.199
@@ -197,13 +195,28 @@ proxies:
   skip-cert-verify: true
   sni: 23.45.86.28
   type: trojan
-- name: 13,14|美国4|@ripaojiedian
-  network: tcp
+- name: 13|🇺🇸 美国4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 18233
   server: 13.231.37.82
   skip-cert-verify: true
   sni: 23.45.86.28
+  type: trojan
+- name: 14|香港4|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 391
+  server: 36.156.102.77
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 14|香港6|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 2282
+  server: xingxing.jiasu123.org
+  skip-cert-verify: true
+  sni: www.baidu.com
   type: trojan
 - alterId: 0
   cipher: auto
@@ -225,6 +238,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 8a9150bc-b9c8-40ac-be83-aaec45176a81
+- name: 14|美国4|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1823
+  server: xingxing.jiasu123.org
+  skip-cert-verify: true
+  sni: 23.45.86.28
+  type: trojan
 - name: 15|AT_speednode_0001
   network: ws
   password: slch2024
