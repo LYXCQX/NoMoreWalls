@@ -1,19 +1,11 @@
 proxies:
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 13|🇺🇸 美国|@ripaojiedian
-  password: 01721e43-5389-4f97-b21c-900abb2bda9e
-  port: 12009
-  server: awes35lesl.blhao0o.dpdns.org
-  tfo: false
-  type: ss
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇺🇸 美国2|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202509031722041-5eflEJAUDw.download.microsoft.com
+    host: 202509031722041-lmIPZ06Vxb.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -29,14 +21,7 @@ proxies:
   sni: 23.45.86.28
   type: trojan
 - client-fingerprint: chrome
-  name: 13|🇺🇸 美国4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 18233
-  server: 13.231.37.82
-  skip-cert-verify: true
-  sni: 23.45.86.28
-  type: trojan
-- name: 14|美国4|@ripaojiedian
+  name: 13,14|美国4|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 1823
