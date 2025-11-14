@@ -52,8 +52,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 13,14|香港6|@ripaojiedian
-  network: tcp
+- name: 13|🇭🇰 香港6|@ripaojiedian
   password: 50a99183-2543-40bd-98a2-12bbc6ecf882
   port: 49213
   server: 118.253.166.237
@@ -70,3 +69,13 @@ proxies:
   port: 2000
   server: oshk02.mynode.me
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 14|香港7|@ripaojiedian
+  network: tcp
+  port: '25007'
+  server: onecat-jp.03ezhg0qsa.download
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 69749298-6821-3358-b6d3-1d18d8642cba
