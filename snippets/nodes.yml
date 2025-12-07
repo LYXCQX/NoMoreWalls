@@ -28,7 +28,7 @@ proxies:
   port: 443
   server: 103.103.245.158
   type: ss
-- name: 13,14|香港3|@ripaojiedian
+- name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 443
@@ -52,24 +52,21 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 13,14|日本|@ripaojiedian
-  network: tcp
+- name: 13|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 4012
   server: jp.baidu.com
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 13,14|日本2|@ripaojiedian
-  network: tcp
+- name: 13|🇯🇵 日本2|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 3169
   server: 160.16.87.174
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 13,14|日本3|@ripaojiedian
-  network: tcp
+- name: 13|🇯🇵 日本3|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 3093
   server: 160.16.72.33
@@ -86,48 +83,42 @@ proxies:
   port: 2377
   server: 172.237.6.53
   type: ss
-- name: 13,14|新加坡|@ripaojiedian
-  network: tcp
+- name: 13|🇸🇬 新加坡|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 507
   server: 153.121.44.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 13,14|新加坡2|@ripaojiedian
-  network: tcp
+- name: 13|🇸🇬 新加坡2|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 507
   server: 160.16.107.37
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 13,14|新加坡3|@ripaojiedian
-  network: tcp
+- name: 13|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 3579
   server: 54.199.213.179
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 13,14|美国|@ripaojiedian
-  network: tcp
+- name: 13|🇺🇸 美国|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
   server: 153.121.39.240
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 13,14|美国2|@ripaojiedian
-  network: tcp
+- name: 13|🇺🇸 美国2|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 2890
   server: 160.16.116.227
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 13,14|美国3|@ripaojiedian
-  network: tcp
+- name: 13|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 1112
   server: 18.163.210.14
@@ -150,6 +141,76 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: 14|日本|@ripaojiedian
+  network: tcp
+  password: BxceQaOe
+  port: 5156
+  server: 54.65.86.145
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: 14|日本2|@ripaojiedian
+  network: tcp
+  password: 79314e99f0a473fe86efc7827942ad00
+  port: 1331
+  server: 153.121.45.139
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|日本3|@ripaojiedian
+  network: tcp
+  password: 79314e99f0a473fe86efc7827942ad00
+  port: 1331
+  server: 153.121.38.213
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|新加坡|@ripaojiedian
+  network: tcp
+  password: 79314e99f0a473fe86efc7827942ad00
+  port: 443
+  server: 68.183.231.236
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|新加坡2|@ripaojiedian
+  network: tcp
+  password: 79314e99f0a473fe86efc7827942ad00
+  port: 507
+  server: 160.16.212.152
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|新加坡3|@ripaojiedian
+  network: tcp
+  password: BxceQaOe
+  port: 3579
+  server: 43.199.190.102
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- name: 14|美国2|@ripaojiedian
+  network: tcp
+  password: 79314e99f0a473fe86efc7827942ad00
+  port: 4054
+  server: 160.16.132.158
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: 14|美国3|@ripaojiedian
+  network: tcp
+  password: BxceQaOe
+  port: 1866
+  server: 43.198.204.4
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 14|美国4|@ripaojiedian
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - name: 15|CN_speednode_0003
   password: 13eb9352-7d04-4523-af91-4d7e84066a95
   port: 12210
