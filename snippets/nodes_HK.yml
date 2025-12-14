@@ -33,7 +33,7 @@ proxies:
   password: BxceQaOe
   port: 443
   server: 58.152.18.155
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 13,14|香港5|@ripaojiedian
