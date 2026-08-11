@@ -67,8 +67,10 @@ hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&sni=de.jey.cc.cd&obfs
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#8%7C%F0%9F%AA%A230%40oneclickvpnkeys
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%2312
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52050?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gv77dpwof5y7lm3n#8%7CN
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52076?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=zducqb7ro143x0t2#8%7CN2
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52076?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=zducqb7ro143x0t2#8%7C%F0%9F%87%A8
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52031?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=p61ckuavkc1s2hfl#8%7C%40FreakConfig
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52086?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=dscbu47eev49tv84#8%7C%40FarazV2ray
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52087?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=bwgy7ppdoiz448uw#8%7C%40FarazV2ray%20%231
@@ -97,6 +99,5 @@ vless://5710bc50-f5ff-018e-a3f5-067959ed2644@ru-sl.convert-flow.net:443?allowIns
 vless://5710bc50-f5ff-02fc-a3f5-067959ed2644@ru-sl.convert-flow.net:443?allowInsecure=1&sni=ru-sl.convert-flow.net&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#15%7CFR_speednode_0006
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?allowInsecure=1&sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#15%7CGB_speednode_0007
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@89.125.37.74:443?allowInsecure=1&sni=se-cdn.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#15%7CIE_speednode_0016
-hhysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?security=tls&insecure=0&sni=quic.tyr-agentstvo.tech#@filembad
-https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
 hhy2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000/?insecure=1&sni=www.bing.com#JP
+https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
