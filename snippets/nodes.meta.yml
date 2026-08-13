@@ -6,14 +6,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 7|JP
-  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
-  port: 11000
-  server: jpa.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '7|荷兰 #1'
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -599,7 +591,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|🇩🇪DE-🚀@VPNine1
+- name: 8|🇩🇪DE-@VPNine1
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
