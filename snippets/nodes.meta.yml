@@ -39,14 +39,6 @@ proxies:
   sni: auto.w-mebel.pro
   tls: false
   type: hysteria2
-- name: 8|@FXxNET
-  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
-  port: 20443
-  server: 84.32.23.62
-  skip-cert-verify: false
-  sni: hy530899-3.w-mebel.pro
-  tls: false
-  type: hysteria2
 - name: 8|💫32@oneclickvpnkeys
   password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
   port: 20443
@@ -61,7 +53,7 @@ proxies:
   sni: hy60c117-2.w-mebel.pro
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi
+- name: '8|@V2ray_confiig #1'
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
   password: 5icixgawam84vgrp
@@ -71,7 +63,7 @@ proxies:
   sni: 109.70.74.213
   tls: false
   type: hysteria2
-- name: 8|telegram:@pirozi_ArGaP
+- name: 8|@VPNConnectd
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
   password: 5ictxgawam84vgrp
@@ -79,6 +71,15 @@ proxies:
   server: 109.70.74.213
   skip-cert-verify: false
   sni: 109.70.74.213
+  tls: false
+  type: hysteria2
+- name: 8|@FXxNET⚡️
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: 5ictxgawam84vgrp
+  port: 2098
+  server: arsalanvpn.trapxan.ir
+  sni: arsalanvpn.trapxan.ir
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -167,7 +168,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 8|45@oneclickvpnkeys
+- name: 8|🚩45@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 2.27.210.6
