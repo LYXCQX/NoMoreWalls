@@ -7,6 +7,14 @@ proxies:
   sni: mother-earth.fyi
   tls: false
   type: hysteria2
+- name: 7|🇷28@exclavevpn
+  password: fb721937-6284-4892-9cbd-c3ba2cb66b4a
+  port: 443
+  server: 85.8.201.247
+  skip-cert-verify: true
+  sni: cdn.mornismp.ru
+  tls: false
+  type: hysteria2
 - name: '8|@OutlineReleasedKey #1'
   password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
   port: 443
@@ -21,26 +29,6 @@ proxies:
   port: 24403
   server: 94.183.164.119
   sni: docs.blog-forme.ru
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi-5
-  obfs: salamander
-  obfs-password: fcfqz5o4znnjqtrp
-  password: 57beeeb0-03fc-4fc9-94da-7604488a7134
-  port: 443
-  server: 103.30.76.18
-  skip-cert-verify: false
-  sni: hkzfsg2.mateflora.com
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓-6
-  obfs: salamander
-  obfs-password: sj1awrdwnn5lbuno
-  password: 57beeeb0-03fc-4fc9-94da-7604488a7134
-  port: 443
-  server: 77.93.89.197
-  skip-cert-verify: false
-  sni: bgsg2.hikigo.com
   tls: false
   type: hysteria2
 - name: 8|@B2Hub
@@ -75,7 +63,7 @@ proxies:
   sni: 216.73.157.142
   tls: false
   type: hysteria2
-- name: 8|TEHRANARGO🇩🇪@
+- name: 8|TEHRANARGO@
   obfs: salamander
   obfs-password: qrl-03E8Q6JaUlAkOPHXQBwN
   password: 74bec046f0004aa5bc280ecc4ab50465
@@ -83,6 +71,29 @@ proxies:
   server: 216.73.157.142
   skip-cert-verify: false
   sni: 216.73.157.142
+  tls: false
+  type: hysteria2
+- name: 8|KR-@VPNine1
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 13.125.176.174
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|🇸🇬SG-🚀@VPNine1
+  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+  port: 443
+  server: 47.131.229.91
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|@VPsave
+  password: 81f705b5-9039-4adf-8671-783095bba0e8
+  port: 443
+  server: nl1.nuvoryxdata.com
+  sni: nl1.nuvoryxdata.com
   tls: false
   type: hysteria2
 - name: '8|@OutlineReleasedKey #4'
@@ -138,7 +149,7 @@ proxies:
   sni: 185.200.199.179
   tls: false
   type: hysteria2
-- name: 8|24@exclavevpn
+- name: 8|🇷24@exclavevpn
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.36.234.11
@@ -236,11 +247,10 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #8'
+- name: '8|@OutlineReleasedKey #7'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 179.254.191.251
-  skip-cert-verify: true
   sni: bl1.nexfile.net
   tls: false
   type: hysteria2
@@ -264,19 +274,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 8|@tootffarangi🍓-3
-  obfs: salamander
-  obfs-password: x9KvL2mP4nC72H3w
-  password: cdfb74db-f288-4271-960d-6d31c4ef75cc
-  port: 8443
-  server: tomsk.gosgenarchive.com
-  skip-cert-verify: false
-  sni: tomsk.gosgenarchive.com
-  tls: false
-  type: hysteria2
-- name: 8|🇳🇱24@exclavevpn
+- name: 8|24@exclavevpn
   password: d4ca9415f0eac7897472e1e5b86d2e96
   port: 443
   server: 50.7.38.243
@@ -286,7 +284,19 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|@OutlineReleasedKey #9'
+  name: 8|@MigMigVPNSHOP
+  obfs: salamander
+  obfs-password: 4cti8h1yscdte7jk
+  password: lnka8ow0rcib39r1
+  port: 8080
+  server: 185.94.180.102
+  skip-cert-verify: false
+  sni: 204.10.192.224
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '8|@OutlineReleasedKey #8'
   password: lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf
   port: 443
   server: n42.neproxy.net
